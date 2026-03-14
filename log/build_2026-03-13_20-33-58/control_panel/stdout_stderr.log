@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating control_panel.egg-info
+writing control_panel.egg-info/PKG-INFO
+writing dependency_links to control_panel.egg-info/dependency_links.txt
+writing entry points to control_panel.egg-info/entry_points.txt
+writing requirements to control_panel.egg-info/requires.txt
+writing top-level names to control_panel.egg-info/top_level.txt
+writing manifest file 'control_panel.egg-info/SOURCES.txt'
+reading manifest file 'control_panel.egg-info/SOURCES.txt'
+writing manifest file 'control_panel.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nexium/ros_ws/install/control_panel/lib/python3.10/site-packages/control-panel.egg-link (link to .)
+Installing control_panel script to /home/nexium/ros_ws/install/control_panel/lib/control_panel
+
+Installed /home/nexium/ros_ws/build/control_panel
+running symlink_data
+creating /home/nexium/ros_ws/install/control_panel/share/ament_index
+creating /home/nexium/ros_ws/install/control_panel/share/ament_index/resource_index
+creating /home/nexium/ros_ws/install/control_panel/share/ament_index/resource_index/packages
+symbolically linking /home/nexium/ros_ws/build/control_panel/resource/control_panel -> /home/nexium/ros_ws/install/control_panel/share/ament_index/resource_index/packages
+symbolically linking /home/nexium/ros_ws/build/control_panel/package.xml -> /home/nexium/ros_ws/install/control_panel/share/control_panel

@@ -1,0 +1,142 @@
+[0.025s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/rmoss_gz_resources -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/rmoss_gz_resources
+[0.564s] -- The C compiler identification is GNU 11.4.0
+[0.564s] -- The CXX compiler identification is GNU 11.4.0
+[0.564s] -- Detecting C compiler ABI info
+[0.564s] -- Detecting C compiler ABI info - done
+[0.564s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.565s] -- Detecting C compile features
+[0.565s] -- Detecting C compile features - done
+[0.566s] -- Detecting CXX compiler ABI info
+[0.566s] -- Detecting CXX compiler ABI info - done
+[0.566s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.566s] -- Detecting CXX compile features
+[0.566s] -- Detecting CXX compile features - done
+[0.566s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.566s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.566s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.566s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.587s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.604s] -- Added test 'lint_cmake' to check CMake code style
+[0.616s] -- Added test 'xmllint' to check XML markup files
+[0.621s] -- Configuring done
+[0.621s] -- Generating done
+[0.625s] -- Build files have been written to: /home/nexium/ros_ws/build/rmoss_gz_resources
+[0.633s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/rmoss_gz_resources -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/rmoss_gz_resources
+[0.634s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_resources -- -j12 -l12
+[1.739s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_resources -- -j12 -l12
+[1.748s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_resources
+[2.564s] -- Install configuration: "release"
+[2.564s] -- Execute custom install script
+[2.564s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/large_base.png
+[2.564s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/large_num1.png
+[2.564s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/large_num3.png
+[2.564s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/large_num4.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/large_num5.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/large_sentry.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/small_base.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/small_num1.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/small_num2.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/small_num3.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/small_num4.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/small_num5.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/materials/textures/small_outpost.png
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/armor_support_frame.stl
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/large_armor.stl
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/large_armor_light_bar.stl
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/large_armor_screw.stl
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/large_armor_target.stl
+[2.565s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/small_armor.dae
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/small_armor_light_bar.dae
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/meshes/small_armor_target.dae
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/model.config
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/model.sdf
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/model.sdf.xmacro
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/rm21_armor_module.def.xmacro
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_armor_module/thumbnails/rm21_armor_module.png
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_light_indicator_module/meshes/light_indicator_bar.dae
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_light_indicator_module/meshes/light_indicator_holder.dae
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_light_indicator_module/model.config
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_light_indicator_module/model.sdf
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_light_indicator_module/model.sdf.xmacro
+[2.566s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_light_indicator_module/rm21_light_indicator_module.def.xmacro
+[2.567s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_light_indicator_module/thumbnails/rm21_light_indicator_module.png
+[2.568s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/meshes/speed_monitor_17mm.dae
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/meshes/speed_monitor_17mm_light_bar.dae
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/meshes/speed_monitor_42mm.stl
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/meshes/speed_monitor_42mm_light_bar.stl
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/model.config
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/model.sdf
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/model.sdf.xmacro
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/rm21_speed_monitor_module.def.xmacro
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_speed_monitor_module/thumbnails/rm21_speed_monitor_module.png
+[2.569s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_video_transmitter_module/meshes/video_transmitter.stl
+[2.576s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_video_transmitter_module/meshes/video_transmitter_glass.stl
+[2.587s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_video_transmitter_module/model.config
+[2.613s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_video_transmitter_module/model.sdf
+[2.627s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_video_transmitter_module/model.sdf.xmacro
+[2.643s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_video_transmitter_module/rm21_video_transmitter_module.def.xmacro
+[2.670s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm21_video_transmitter_module/thumbnails/rm21_video_transmitter_module.png
+[2.700s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num1_0.png
+[2.722s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num1_1.png
+[2.749s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num1_2.png
+[2.775s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num1_3.png
+[2.800s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num2_0.png
+[2.828s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num2_1.png
+[2.861s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num2_2.png
+[2.886s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/materials/textures/ua_num2_3.png
+[2.915s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/model.config
+[2.942s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/model.sdf
+[2.962s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/model.sdf.xmacro
+[2.994s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/rm22_armor_module.def.xmacro
+[3.022s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_armor_module/thumbnails/rm22_armor_module.png
+[3.053s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_light_indicator_module/model.config
+[3.091s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_light_indicator_module/model.sdf
+[3.115s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_light_indicator_module/model.sdf.xmacro
+[3.147s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_light_indicator_module/rm22_light_indicator_module.def.xmacro
+[3.173s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_speed_monitor_module/model.config
+[3.204s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_speed_monitor_module/model.sdf
+[3.229s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_speed_monitor_module/model.sdf.xmacro
+[3.264s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_speed_monitor_module/rm22_speed_monitor_module.def.xmacro
+[3.294s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_video_transmitter_module/model.config
+[3.320s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_video_transmitter_module/model.sdf
+[3.350s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_video_transmitter_module/model.sdf.xmacro
+[3.374s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm22_video_transmitter_module/rm22_video_transmitter_module.def.xmacro
+[3.399s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm25_example_robot/model.config
+[3.427s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm25_example_robot/model.sdf
+[3.457s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm25_example_robot/model.sdf.xmacro
+[3.477s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm25_example_robot/rm25_example_robot.def.xmacro
+[3.503s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm_projectile_17mm/model.config
+[3.534s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm_projectile_17mm/model.sdf
+[3.559s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm_projectile_17mm/model.sdf.xmacro
+[3.590s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm_projectile_17mm/rm_projectile.def.xmacro
+[3.612s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm_projectile_42mm/model.config
+[3.633s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm_projectile_42mm/model.sdf
+[3.661s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rm_projectile_42mm/model.sdf.xmacro
+[3.676s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/chassis_wheel.def.xmacro
+[3.703s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/meshes/chassis_base.dae
+[3.738s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/meshes/gimbal_pitch.dae
+[3.764s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/meshes/gimbal_yaw.dae
+[3.790s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/meshes/wheel_left.dae
+[3.812s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/meshes/wheel_right.dae
+[3.834s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/model.config
+[3.865s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/model.sdf
+[3.885s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/model.sdf.xmacro
+[3.909s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/rmua19_standard_robot.def.xmacro
+[3.939s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/resource/models/rmua19_standard_robot/thumbnails/rmua19_standard_robot.png
+[3.960s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/environment/gazebo.dsv
+[3.987s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/ament_index/resource_index/package_run_dependencies/rmoss_gz_resources
+[4.010s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/ament_index/resource_index/parent_prefix_path/rmoss_gz_resources
+[4.032s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/environment/ament_prefix_path.sh
+[4.061s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/environment/ament_prefix_path.dsv
+[4.080s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/environment/path.sh
+[4.119s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/environment/path.dsv
+[4.145s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/local_setup.bash
+[4.172s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/local_setup.sh
+[4.194s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/local_setup.zsh
+[4.222s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/local_setup.dsv
+[4.259s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/package.dsv
+[4.281s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/ament_index/resource_index/packages/rmoss_gz_resources
+[4.308s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/cmake/rmoss_gz_resourcesConfig.cmake
+[4.353s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/cmake/rmoss_gz_resourcesConfig-version.cmake
+[4.389s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_resources/share/rmoss_gz_resources/package.xml
+[4.422s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_resources

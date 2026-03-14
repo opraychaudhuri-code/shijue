@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmu_gazebo_simulator/ament_cmake_core/rmu_gazebo_simulatorConfig.cmake

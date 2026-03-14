@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/src/auto_aim_interfaces/msg/Armor.msg

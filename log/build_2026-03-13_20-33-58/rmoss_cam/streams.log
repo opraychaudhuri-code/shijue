@@ -1,0 +1,62 @@
+[0.061s] Invoking command in '/home/nexium/ros_ws/build/rmoss_cam': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_util/lib:/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_cam -- -j12 -l12
+[0.123s] [  7%] Built target usb_cam
+[0.124s] [ 18%] Built target rmoss_cam
+[0.124s] [ 25%] Built target virtual_cam
+[0.135s] [ 33%] Built target gtest
+[0.135s] [ 40%] Built target gtest_main
+[0.136s] [ 48%] Built target image_task_demo
+[0.162s] [ 59%] Built target usb_cam_component
+[0.178s] [ 70%] Built target virtual_cam_component
+[0.178s] [ 77%] Built target test_cam_client
+[0.179s] [ 85%] Built target test_cam_server
+[0.183s] [ 92%] Built target image_task_demo_component
+[0.202s] [100%] Built target benchmark_test
+[0.387s] Invoked command in '/home/nexium/ros_ws/build/rmoss_cam' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_util/lib:/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_cam -- -j12 -l12
+[0.389s] Invoking command in '/home/nexium/ros_ws/build/rmoss_cam': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_util/lib:/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_cam
+[0.419s] -- Install configuration: "release"
+[0.419s] -- Execute custom install script
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/lib/rmoss_cam/usb_cam
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/lib/rmoss_cam/virtual_cam
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/lib/rmoss_cam/image_task_demo
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/cam_client.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/cam_interface.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/cam_server.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/image_task_demo_node.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/usb_cam.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/usb_cam_node.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/virtual_cam.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/include/rmoss_cam/virtual_cam_node.hpp
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/lib/rmoss_cam/benchmark_test
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/launch/benchmark.launch.py
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/launch/composition.launch.py
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/launch/usb_cam.launch.py
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/launch/virtual_image_cam.launch.py
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/resource/image_cam_calibration.yaml
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/resource/test.jpg
+[0.419s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/config/cam_params.yaml
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/scripts/task_client.py
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/ament_index/resource_index/package_run_dependencies/rmoss_cam
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/ament_index/resource_index/parent_prefix_path/rmoss_cam
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/environment/ament_prefix_path.sh
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/environment/ament_prefix_path.dsv
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/environment/path.sh
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/environment/path.dsv
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/local_setup.bash
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/local_setup.sh
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/local_setup.zsh
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/local_setup.dsv
+[0.420s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/package.dsv
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/ament_index/resource_index/packages/rmoss_cam
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/ament_index/resource_index/rclcpp_components/rmoss_cam
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/cmake/ament_cmake_export_targets-extras.cmake
+[0.420s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.421s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/cmake/rmoss_camConfig.cmake
+[0.421s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/cmake/rmoss_camConfig-version.cmake
+[0.421s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/package.xml
+[0.421s] -- Up-to-date: /home/nexium/ros_ws/install/rmoss_cam/lib/librmoss_cam.so
+[0.421s] -- Up-to-date: /home/nexium/ros_ws/install/rmoss_cam/lib/libusb_cam_component.so
+[0.422s] -- Up-to-date: /home/nexium/ros_ws/install/rmoss_cam/lib/libvirtual_cam_component.so
+[0.423s] -- Up-to-date: /home/nexium/ros_ws/install/rmoss_cam/lib/libimage_task_demo_component.so
+[0.423s] -- Up-to-date: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/cmake/export_rmoss_camExport.cmake
+[0.423s] -- Up-to-date: /home/nexium/ros_ws/install/rmoss_cam/share/rmoss_cam/cmake/export_rmoss_camExport-release.cmake
+[0.446s] Invoked command in '/home/nexium/ros_ws/build/rmoss_cam' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_util:/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_util/lib:/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_cam

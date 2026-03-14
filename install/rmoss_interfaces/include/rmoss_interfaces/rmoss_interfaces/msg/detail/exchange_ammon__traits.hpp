@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_interfaces/rosidl_generator_cpp/rmoss_interfaces/msg/detail/exchange_ammon__traits.hpp

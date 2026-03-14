@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/nexium/ros_ws/build/pb2025_sentry_behavior/pb2025_sentry_behavior_server" "TARGETS" "pb2025_sentry_behavior_server" "DESTINATION" "lib/pb2025_sentry_behavior")

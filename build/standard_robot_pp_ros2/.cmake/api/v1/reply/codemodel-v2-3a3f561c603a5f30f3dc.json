@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-ac8a0920b032afa51515.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "standard_robot_pp_ros2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gimbal_manager_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gimbal_manager_node-release-5037a280529cd3200ef8.json",
+					"name" : "gimbal_manager_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_robot_pp_ros2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_robot_pp_ros2-release-9326db83baac0fe64e2d.json",
+					"name" : "standard_robot_pp_ros2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_robot_pp_ros2_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_robot_pp_ros2_node-release-ca482e9ba19340f4aafe.json",
+					"name" : "standard_robot_pp_ros2_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standard_robot_pp_ros2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standard_robot_pp_ros2_uninstall-release-f3221556147ee76c1108.json",
+					"name" : "standard_robot_pp_ros2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-fcd69323b79a291cb04c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/standard_robot_pp_ros2",
+		"source" : "/home/nexium/ros_ws/src/standard_robot_pp_ros2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

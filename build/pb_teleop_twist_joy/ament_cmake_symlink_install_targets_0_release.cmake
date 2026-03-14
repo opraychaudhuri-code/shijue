@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/nexium/ros_ws/build/pb_teleop_twist_joy/pb_teleop_twist_joy_node" "TARGETS" "pb_teleop_twist_joy_node" "DESTINATION" "lib/pb_teleop_twist_joy")

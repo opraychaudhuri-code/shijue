@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/small_gicp_relocalization/_deps/small_gicp-build/small_gicp-config-version.cmake

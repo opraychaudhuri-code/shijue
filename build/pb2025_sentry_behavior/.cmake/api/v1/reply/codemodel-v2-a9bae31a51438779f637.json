@@ -1,0 +1,232 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-a784800c33b4c302b0a7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pb2025_sentry_behavior",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "action_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-action_client-release-e1d87af5ae24958fe825.json",
+					"name" : "action_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculate_attack_pose::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculate_attack_pose-release-f00aa43d44eaea424530.json",
+					"name" : "calculate_attack_pose",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "is_attacked::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-is_attacked-release-4ff049f97618d7f5a34b.json",
+					"name" : "is_attacked",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "is_detect_enemy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-is_detect_enemy-release-5fd18fdb39ef1902573d.json",
+					"name" : "is_detect_enemy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "is_game_status::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-is_game_status-release-e217a6dce72cf0520341.json",
+					"name" : "is_game_status",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "is_rfid_detected::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-is_rfid_detected-release-57dc4bdd5799f07d2099.json",
+					"name" : "is_rfid_detected",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "is_status_ok::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-is_status_ok-release-fc5975867290d1e61792.json",
+					"name" : "is_status_ok",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pb2025_sentry_behavior_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pb2025_sentry_behavior_client-release-35e8a4c422809eb51bd6.json",
+					"name" : "pb2025_sentry_behavior_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pb2025_sentry_behavior_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pb2025_sentry_behavior_server-release-cf17f9444920731dafa1.json",
+					"name" : "pb2025_sentry_behavior_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pb2025_sentry_behavior_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pb2025_sentry_behavior_uninstall-release-795b65d1e39481d3c0fd.json",
+					"name" : "pb2025_sentry_behavior_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pub_gimbal_absolute::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pub_gimbal_absolute-release-cce9204dfcc6ea3ac68b.json",
+					"name" : "pub_gimbal_absolute",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pub_gimbal_velocity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pub_gimbal_velocity-release-c6ce9a54ade95c38035d.json",
+					"name" : "pub_gimbal_velocity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pub_nav2_goal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pub_nav2_goal-release-ddf28c44403d7aaae38d.json",
+					"name" : "pub_nav2_goal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pub_spin_speed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pub_spin_speed-release-ad6342cd1d3950ab435b.json",
+					"name" : "pub_spin_speed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pub_twist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pub_twist-release-4a5ab9b9fd5767d9ed66.json",
+					"name" : "pub_twist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rate_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rate_controller-release-5e34aa7ab9493c992b83.json",
+					"name" : "rate_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recovery_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recovery_node-release-05ae6f2b96d73b1ad582.json",
+					"name" : "recovery_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "send_nav2_goal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-send_nav2_goal-release-b904ac3660aeca5a943e.json",
+					"name" : "send_nav2_goal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tick_after_timeout_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tick_after_timeout_node-release-8e4f2205a2845d1e1d0f.json",
+					"name" : "tick_after_timeout_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-93833f7cd8eb02f10db7.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/pb2025_sentry_behavior",
+		"source" : "/home/nexium/ros_ws/src/pb2025_sentry_behavior"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

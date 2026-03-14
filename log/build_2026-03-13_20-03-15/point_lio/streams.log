@@ -1,0 +1,33 @@
+[0.061s] Invoking command in '/home/nexium/ros_ws/build/point_lio': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/point_lio -- -j12 -l12
+[0.158s] [35m[1mConsolidate compiler generated dependencies of target pointlio_mapping[0m
+[0.167s] [100%] Built target pointlio_mapping
+[0.202s] Invoked command in '/home/nexium/ros_ws/build/point_lio' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/point_lio -- -j12 -l12
+[0.204s] Invoking command in '/home/nexium/ros_ws/build/point_lio': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/point_lio
+[0.229s] -- Install configuration: "release"
+[0.229s] -- Execute custom install script
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/lib/point_lio/pointlio_mapping
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/avia.yaml
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/horizon.yaml
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/mid360.yaml
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/ouster64.yaml
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/velody16.yaml
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/launch/point_lio.launch.py
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/rviz_cfg/.gitignore
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/rviz_cfg/loam_livox.rviz
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/ament_index/resource_index/package_run_dependencies/point_lio
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/ament_index/resource_index/parent_prefix_path/point_lio
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/ament_prefix_path.sh
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/ament_prefix_path.dsv
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/path.sh
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/path.dsv
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.bash
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.sh
+[0.230s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.zsh
+[0.231s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.dsv
+[0.231s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/package.dsv
+[0.231s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/ament_index/resource_index/packages/point_lio
+[0.231s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.232s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/cmake/point_lioConfig.cmake
+[0.232s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/cmake/point_lioConfig-version.cmake
+[0.232s] -- Up-to-date symlink: /home/nexium/ros_ws/install/point_lio/share/point_lio/package.xml
+[0.322s] Invoked command in '/home/nexium/ros_ws/build/point_lio' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/point_lio

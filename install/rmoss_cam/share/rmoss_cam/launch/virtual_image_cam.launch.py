@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/src/rmoss_core/rmoss_cam/launch/virtual_image_cam.launch.py

@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/src/rmoss_gazebo/rmoss_gz_base/scripts/test_gimbal_cmd.py

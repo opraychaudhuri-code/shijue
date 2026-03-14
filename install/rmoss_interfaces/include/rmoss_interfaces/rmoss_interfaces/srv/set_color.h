@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_interfaces/rosidl_generator_c/rmoss_interfaces/srv/set_color.h

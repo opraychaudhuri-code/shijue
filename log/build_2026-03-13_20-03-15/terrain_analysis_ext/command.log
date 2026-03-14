@@ -1,0 +1,4 @@
+Invoking command in '/home/nexium/ros_ws/build/terrain_analysis_ext': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/terrain_analysis_ext -- -j12 -l12
+Invoked command in '/home/nexium/ros_ws/build/terrain_analysis_ext' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/terrain_analysis_ext -- -j12 -l12
+Invoking command in '/home/nexium/ros_ws/build/terrain_analysis_ext': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/terrain_analysis_ext
+Invoked command in '/home/nexium/ros_ws/build/terrain_analysis_ext' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/terrain_analysis_ext

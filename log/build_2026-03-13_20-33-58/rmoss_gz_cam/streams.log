@@ -1,0 +1,28 @@
+[0.047s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_cam': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_cam -- -j12 -l12
+[0.135s] [ 50%] Built target rmoss_gz_cam
+[0.157s] [100%] Built target gz_cam
+[0.337s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_cam' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_cam -- -j12 -l12
+[0.337s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_cam': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_cam
+[0.364s] -- Install configuration: "release"
+[0.364s] -- Execute custom install script
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/include/rmoss_gz_cam/gz_cam_node.hpp
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/lib/rmoss_gz_cam/gz_cam
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/launch/gz_cam.launch.py
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/ament_index/resource_index/package_run_dependencies/rmoss_gz_cam
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/ament_index/resource_index/parent_prefix_path/rmoss_gz_cam
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/environment/ament_prefix_path.sh
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/environment/ament_prefix_path.dsv
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/environment/path.sh
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/environment/path.dsv
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/local_setup.bash
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/local_setup.sh
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/local_setup.zsh
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/local_setup.dsv
+[0.365s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/package.dsv
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/ament_index/resource_index/packages/rmoss_gz_cam
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/ament_index/resource_index/rclcpp_components/rmoss_gz_cam
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/cmake/rmoss_gz_camConfig.cmake
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/cmake/rmoss_gz_camConfig-version.cmake
+[0.365s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_cam/share/rmoss_gz_cam/package.xml
+[0.365s] -- Up-to-date: /home/nexium/ros_ws/install/rmoss_gz_cam/lib/librmoss_gz_cam.so
+[0.410s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_cam' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_cam

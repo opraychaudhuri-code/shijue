@@ -1,0 +1,16 @@
+{
+  "package_name": "pb_rm_interfaces",
+  "non_idl_tuples": [
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/referee/Buff.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/referee/EventData.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/referee/GameRobotHP.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/referee/GameStatus.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/referee/GroundRobotPosition.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/referee/RfidStatus.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/referee/RobotStatus.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/Gimbal.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/GimbalCmd.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/Models.msg",
+    "/home/nexium/ros_ws/src/pb_rm_interfaces:msg/RobotStateInfo.msg"
+  ]
+}

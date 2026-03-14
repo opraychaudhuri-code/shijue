@@ -1,0 +1,24 @@
+[1.027s] Invoking command in '/home/nexium/ros_ws/build/joint_state_publisher': PYTHONPATH=/home/nexium/ros_ws/build/joint_state_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nexium/ros_ws/build/joint_state_publisher/build --no-deps symlink_data
+[1.716s] running develop
+[1.720s] running egg_info
+[1.721s] creating joint_state_publisher.egg-info
+[1.722s] writing joint_state_publisher.egg-info/PKG-INFO
+[1.722s] writing dependency_links to joint_state_publisher.egg-info/dependency_links.txt
+[1.722s] writing entry points to joint_state_publisher.egg-info/entry_points.txt
+[1.722s] writing requirements to joint_state_publisher.egg-info/requires.txt
+[1.722s] writing top-level names to joint_state_publisher.egg-info/top_level.txt
+[1.722s] writing manifest file 'joint_state_publisher.egg-info/SOURCES.txt'
+[1.722s] reading manifest file 'joint_state_publisher.egg-info/SOURCES.txt'
+[1.722s] writing manifest file 'joint_state_publisher.egg-info/SOURCES.txt'
+[1.722s] running build_ext
+[1.722s] Creating /home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages/joint-state-publisher.egg-link (link to .)
+[1.722s] Installing joint_state_publisher script to /home/nexium/ros_ws/install/joint_state_publisher/lib/joint_state_publisher
+[1.722s] 
+[1.722s] Installed /home/nexium/ros_ws/build/joint_state_publisher
+[1.722s] running symlink_data
+[1.723s] creating /home/nexium/ros_ws/install/joint_state_publisher/share/ament_index
+[1.723s] creating /home/nexium/ros_ws/install/joint_state_publisher/share/ament_index/resource_index
+[1.723s] creating /home/nexium/ros_ws/install/joint_state_publisher/share/ament_index/resource_index/packages
+[1.723s] symbolically linking /home/nexium/ros_ws/build/joint_state_publisher/resource/joint_state_publisher -> /home/nexium/ros_ws/install/joint_state_publisher/share/ament_index/resource_index/packages
+[1.723s] symbolically linking /home/nexium/ros_ws/build/joint_state_publisher/package.xml -> /home/nexium/ros_ws/install/joint_state_publisher/share/joint_state_publisher
+[1.738s] Invoked command in '/home/nexium/ros_ws/build/joint_state_publisher' returned '0': PYTHONPATH=/home/nexium/ros_ws/build/joint_state_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nexium/ros_ws/build/joint_state_publisher/build --no-deps symlink_data

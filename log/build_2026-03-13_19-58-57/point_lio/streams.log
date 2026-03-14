@@ -1,0 +1,131 @@
+[0.010s] Invoking command in '/home/nexium/ros_ws/build/point_lio': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/point_lio -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/point_lio
+[9.752s] -- The C compiler identification is GNU 11.4.0
+[9.752s] -- The CXX compiler identification is GNU 11.4.0
+[9.752s] -- Detecting C compiler ABI info
+[9.752s] -- Detecting C compiler ABI info - done
+[9.752s] -- Check for working C compiler: /usr/bin/cc - skipped
+[9.753s] -- Detecting C compile features
+[9.753s] -- Detecting C compile features - done
+[9.753s] -- Detecting CXX compiler ABI info
+[9.753s] -- Detecting CXX compiler ABI info - done
+[9.753s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[9.753s] -- Detecting CXX compile features
+[9.753s] -- Detecting CXX compile features - done
+[9.753s] -- Processor number:  12
+[9.753s] -- core for MP:  3
+[9.753s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[9.753s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[9.754s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[9.754s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[9.754s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[9.754s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[9.754s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[9.754s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[9.754s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[9.754s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[9.754s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[9.754s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[9.754s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.754s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[9.754s] -- Looking for pthread.h
+[9.755s] -- Looking for pthread.h - found
+[9.755s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[9.755s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[9.755s] -- Found Threads: TRUE  
+[9.755s] -- Found rclpy: 3.3.19 (/opt/ros/humble/share/rclpy/cmake)
+[9.755s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[9.755s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[9.755s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[9.755s] -- Found visualization_msgs: 4.9.0 (/opt/ros/humble/share/visualization_msgs/cmake)
+[9.755s] -- Found pcl_ros: 2.4.5 (/opt/ros/humble/share/pcl_ros/cmake)
+[9.757s] -- Checking for module 'eigen3'
+[9.757s] --   Found eigen3, version 3.4.0
+[9.757s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[9.757s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[9.757s] -- Checking for module 'flann'
+[9.757s] --   Found flann, version 1.9.1
+[9.758s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[9.759s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[9.759s] -- Checking for module 'libusb-1.0'
+[9.759s] --   Found libusb-1.0, version 1.0.25
+[9.759s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[9.759s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[9.759s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[9.761s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[9.761s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[9.761s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[9.761s] -- Found Qhull version 8.0.2
+[9.762s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[9.762s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[9.762s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[9.762s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[9.762s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[9.762s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[9.762s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[9.762s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[9.762s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[9.762s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[9.762s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[9.763s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[9.763s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[9.763s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[9.763s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[9.763s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[9.763s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[9.763s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[9.763s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[9.763s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[9.763s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[9.763s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[9.763s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[9.763s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[9.764s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[9.764s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[9.764s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[9.764s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[9.764s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[9.764s] -- Found livox_ros_driver2: 1.1.0 (/home/nexium/ros_ws/install/livox_ros_driver2/share/livox_ros_driver2/cmake)
+[9.764s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found version "3.10.12") 
+[9.764s] -- Configuring done
+[9.764s] -- Generating done
+[9.764s] -- Build files have been written to: /home/nexium/ros_ws/build/point_lio
+[9.782s] Invoked command in '/home/nexium/ros_ws/build/point_lio' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/point_lio -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/point_lio
+[9.785s] Invoking command in '/home/nexium/ros_ws/build/point_lio': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/point_lio -- -j12 -l12
+[10.142s] [ 14%] [32mBuilding CXX object CMakeFiles/pointlio_mapping.dir/src/laserMapping.cpp.o[0m
+[102.824s] [ 57%] [32mBuilding CXX object CMakeFiles/pointlio_mapping.dir/src/Estimator.cpp.o[0m
+[102.825s] [ 57%] [32mBuilding CXX object CMakeFiles/pointlio_mapping.dir/src/preprocess.cpp.o[0m
+[102.825s] [ 57%] [32mBuilding CXX object CMakeFiles/pointlio_mapping.dir/src/IMU_Processing.cpp.o[0m
+[110.951s] [ 71%] [32mBuilding CXX object CMakeFiles/pointlio_mapping.dir/src/parameters.cpp.o[0m
+[110.952s] [ 85%] [32mBuilding CXX object CMakeFiles/pointlio_mapping.dir/src/li_initialization.cpp.o[0m
+[130.078s] [100%] [32m[1mLinking CXX executable pointlio_mapping[0m
+[131.299s] [100%] Built target pointlio_mapping
+[131.312s] Invoked command in '/home/nexium/ros_ws/build/point_lio' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/point_lio -- -j12 -l12
+[131.314s] Invoking command in '/home/nexium/ros_ws/build/point_lio': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/point_lio
+[131.323s] -- Install configuration: "release"
+[131.324s] -- Execute custom install script
+[131.325s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/lib/point_lio/pointlio_mapping
+[131.335s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/avia.yaml
+[131.344s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/horizon.yaml
+[131.353s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/mid360.yaml
+[131.362s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/ouster64.yaml
+[131.372s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/config/velody16.yaml
+[131.381s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/launch/point_lio.launch.py
+[131.391s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/rviz_cfg/.gitignore
+[131.400s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/rviz_cfg/loam_livox.rviz
+[131.410s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/ament_index/resource_index/package_run_dependencies/point_lio
+[131.419s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/ament_index/resource_index/parent_prefix_path/point_lio
+[131.429s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/ament_prefix_path.sh
+[131.438s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/ament_prefix_path.dsv
+[131.448s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/path.sh
+[131.458s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/environment/path.dsv
+[131.467s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.bash
+[131.477s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.sh
+[131.486s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.zsh
+[131.495s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/local_setup.dsv
+[131.505s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/package.dsv
+[131.514s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/ament_index/resource_index/packages/point_lio
+[131.524s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/cmake/ament_cmake_export_dependencies-extras.cmake
+[131.533s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/cmake/point_lioConfig.cmake
+[131.543s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/cmake/point_lioConfig-version.cmake
+[131.552s] -- Symlinking: /home/nexium/ros_ws/install/point_lio/share/point_lio/package.xml
+[131.564s] Invoked command in '/home/nexium/ros_ws/build/point_lio' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/livox_ros_driver2:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/livox_ros_driver2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/point_lio

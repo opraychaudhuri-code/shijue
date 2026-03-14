@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-407eec0bc5cd6f21d576.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "btcpp_ros2_interfaces__py",
+					"jsonFile" : "directory-btcpp_ros2_interfaces__py-release-b67d12e0e9120d3e491b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/nexium/ros_ws/build/btcpp_ros2_interfaces/btcpp_ros2_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "btcpp_ros2_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_btcpp_ros2_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_btcpp_ros2_interfaces_egg-release-fa694ebf9357e999bb6e.json",
+					"name" : "ament_cmake_python_build_btcpp_ros2_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_btcpp_ros2_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_btcpp_ros2_interfaces-release-9bfa734f4abab2f6dc70.json",
+					"name" : "ament_cmake_python_symlink_btcpp_ros2_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces-release-b6ee7bc45b6c4bb0d712.json",
+					"name" : "btcpp_ros2_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__cpp-release-be34aad8ced0c632c93e.json",
+					"name" : "btcpp_ros2_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "btcpp_ros2_interfaces__py::@dbb19cbbb7b653930bd9",
+					"jsonFile" : "target-btcpp_ros2_interfaces__py-release-5253edca986ebc36c3b9.json",
+					"name" : "btcpp_ros2_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_generator_c-release-861a7b2006b2155efd87.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_generator_py-release-2cad0966b2d186916376.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_c-release-1c9200cbb28869e68b63.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_c__pyext-release-8978a5aa69ea167d335d.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_cpp-release-cf5fb9d26e2840c52f59.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_c-release-c2c4574b7adc42e184f6.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_c__pyext-release-52aa8650f7ade0195ceb.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_cpp-release-afb4575075ed344c2853.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_introspection_c-release-3e3ac4478e6820cbc5b4.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_introspection_c__pyext-release-8bcdcb07dbae59791613.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces__rosidl_typesupport_introspection_cpp-release-ca058d1d4af88ab6a7d0.json",
+					"name" : "btcpp_ros2_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "btcpp_ros2_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-btcpp_ros2_interfaces_uninstall-release-960396d2d59c0eae1b69.json",
+					"name" : "btcpp_ros2_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-5494a025a77997ff0f73.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/btcpp_ros2_interfaces",
+		"source" : "/home/nexium/ros_ws/src/BehaviorTree.ROS2/btcpp_ros2_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

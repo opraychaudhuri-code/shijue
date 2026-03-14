@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-7f8757a91a1509b5fb81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "behaviortree_ros2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "behaviortree_ros2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-behaviortree_ros2-release-d7e5f4322bb75dfdbd37.json",
+					"name" : "behaviortree_ros2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "behaviortree_ros2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-behaviortree_ros2_uninstall-release-789f52984d193d74f5d2.json",
+					"name" : "behaviortree_ros2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bt_executor_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bt_executor_parameters-release-87b7624a6dabf29e189c.json",
+					"name" : "bt_executor_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-a2a862af18e96d5c574d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/behaviortree_ros2",
+		"source" : "/home/nexium/ros_ws/src/BehaviorTree.ROS2/behaviortree_ros2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

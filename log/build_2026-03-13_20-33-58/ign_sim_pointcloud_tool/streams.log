@@ -1,0 +1,32 @@
+[0.243s] Invoking command in '/home/nexium/ros_ws/build/ign_sim_pointcloud_tool': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/ign_sim_pointcloud_tool -- -j12 -l12
+[0.435s] [ 50%] Built target ign_sim_pointcloud_tool_node
+[0.435s] [100%] Built target ign_sim_pointcloud_tool
+[0.460s] Invoked command in '/home/nexium/ros_ws/build/ign_sim_pointcloud_tool' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/ign_sim_pointcloud_tool -- -j12 -l12
+[0.461s] Invoking command in '/home/nexium/ros_ws/build/ign_sim_pointcloud_tool': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/ign_sim_pointcloud_tool
+[0.554s] -- Install configuration: "release"
+[0.554s] -- Execute custom install script
+[0.554s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/lib/ign_sim_pointcloud_tool/ign_sim_pointcloud_tool_node
+[0.554s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/include/ign_sim_pointcloud_tool/ign_sim_pointcloud_tool/point_cloud_converter.hpp
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/environment/library_path.sh
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/environment/library_path.dsv
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/lib/libign_sim_pointcloud_tool.so
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ament_index/resource_index/package_run_dependencies/ign_sim_pointcloud_tool
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ament_index/resource_index/parent_prefix_path/ign_sim_pointcloud_tool
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/environment/ament_prefix_path.sh
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/environment/ament_prefix_path.dsv
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/environment/path.sh
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/environment/path.dsv
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/local_setup.bash
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/local_setup.sh
+[0.555s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/local_setup.zsh
+[0.556s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/local_setup.dsv
+[0.556s] -- Symlinking: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/package.dsv
+[0.579s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ament_index/resource_index/packages/ign_sim_pointcloud_tool
+[0.580s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ament_index/resource_index/rclcpp_components/ign_sim_pointcloud_tool
+[0.580s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.580s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.580s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/cmake/ament_cmake_export_libraries-extras.cmake
+[0.581s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/cmake/ign_sim_pointcloud_toolConfig.cmake
+[0.581s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/cmake/ign_sim_pointcloud_toolConfig-version.cmake
+[0.581s] -- Up-to-date symlink: /home/nexium/ros_ws/install/ign_sim_pointcloud_tool/share/ign_sim_pointcloud_tool/package.xml
+[0.632s] Invoked command in '/home/nexium/ros_ws/build/ign_sim_pointcloud_tool' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/ign_sim_pointcloud_tool

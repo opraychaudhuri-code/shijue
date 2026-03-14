@@ -1,0 +1,25 @@
+[1.096s] Invoking command in '/home/nexium/ros_ws/build/sdformat_tools': PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nexium/ros_ws/build/sdformat_tools/build --no-deps symlink_data
+[1.731s] running develop
+[1.731s] running egg_info
+[1.731s] creating sdformat_tools.egg-info
+[1.731s] writing sdformat_tools.egg-info/PKG-INFO
+[1.731s] writing dependency_links to sdformat_tools.egg-info/dependency_links.txt
+[1.731s] writing entry points to sdformat_tools.egg-info/entry_points.txt
+[1.731s] writing requirements to sdformat_tools.egg-info/requires.txt
+[1.731s] writing top-level names to sdformat_tools.egg-info/top_level.txt
+[1.731s] writing manifest file 'sdformat_tools.egg-info/SOURCES.txt'
+[1.732s] reading manifest file 'sdformat_tools.egg-info/SOURCES.txt'
+[1.733s] writing manifest file 'sdformat_tools.egg-info/SOURCES.txt'
+[1.733s] running build_ext
+[1.733s] Creating /home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages/sdformat-tools.egg-link (link to .)
+[1.733s] Installing sdf2urdf script to /home/nexium/ros_ws/install/sdformat_tools/bin
+[1.733s] Installing xmacro4sdf script to /home/nexium/ros_ws/install/sdformat_tools/bin
+[1.733s] 
+[1.733s] Installed /home/nexium/ros_ws/build/sdformat_tools
+[1.733s] running symlink_data
+[1.733s] creating /home/nexium/ros_ws/install/sdformat_tools/share/ament_index
+[1.733s] creating /home/nexium/ros_ws/install/sdformat_tools/share/ament_index/resource_index
+[1.733s] creating /home/nexium/ros_ws/install/sdformat_tools/share/ament_index/resource_index/packages
+[1.733s] symbolically linking /home/nexium/ros_ws/build/sdformat_tools/resource/sdformat_tools -> /home/nexium/ros_ws/install/sdformat_tools/share/ament_index/resource_index/packages
+[1.733s] symbolically linking /home/nexium/ros_ws/build/sdformat_tools/package.xml -> /home/nexium/ros_ws/install/sdformat_tools/share/sdformat_tools
+[1.781s] Invoked command in '/home/nexium/ros_ws/build/sdformat_tools' returned '0': PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nexium/ros_ws/build/sdformat_tools/build --no-deps symlink_data

@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/src/rmu_gazebo_simulator/rmu_gazebo_simulator/scripts/referee_system/simple_competition_1v1.py

@@ -1,0 +1,24 @@
+[1.250s] Invoking command in '/home/nexium/ros_ws/build/joint_state_publisher_gui': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} PYTHONPATH=/home/nexium/ros_ws/build/joint_state_publisher_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nexium/ros_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nexium/ros_ws/build/joint_state_publisher_gui/build --no-deps symlink_data
+[7.715s] running develop
+[7.715s] running egg_info
+[7.715s] creating joint_state_publisher_gui.egg-info
+[7.715s] writing joint_state_publisher_gui.egg-info/PKG-INFO
+[7.716s] writing dependency_links to joint_state_publisher_gui.egg-info/dependency_links.txt
+[7.716s] writing entry points to joint_state_publisher_gui.egg-info/entry_points.txt
+[7.716s] writing requirements to joint_state_publisher_gui.egg-info/requires.txt
+[7.716s] writing top-level names to joint_state_publisher_gui.egg-info/top_level.txt
+[7.716s] writing manifest file 'joint_state_publisher_gui.egg-info/SOURCES.txt'
+[7.716s] reading manifest file 'joint_state_publisher_gui.egg-info/SOURCES.txt'
+[7.716s] writing manifest file 'joint_state_publisher_gui.egg-info/SOURCES.txt'
+[7.716s] running build_ext
+[7.716s] Creating /home/nexium/ros_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages/joint-state-publisher-gui.egg-link (link to .)
+[7.716s] Installing joint_state_publisher_gui script to /home/nexium/ros_ws/install/joint_state_publisher_gui/lib/joint_state_publisher_gui
+[7.716s] 
+[7.716s] Installed /home/nexium/ros_ws/build/joint_state_publisher_gui
+[7.716s] running symlink_data
+[7.716s] creating /home/nexium/ros_ws/install/joint_state_publisher_gui/share/ament_index
+[7.716s] creating /home/nexium/ros_ws/install/joint_state_publisher_gui/share/ament_index/resource_index
+[7.717s] creating /home/nexium/ros_ws/install/joint_state_publisher_gui/share/ament_index/resource_index/packages
+[7.717s] symbolically linking /home/nexium/ros_ws/build/joint_state_publisher_gui/resource/joint_state_publisher_gui -> /home/nexium/ros_ws/install/joint_state_publisher_gui/share/ament_index/resource_index/packages
+[7.717s] symbolically linking /home/nexium/ros_ws/build/joint_state_publisher_gui/package.xml -> /home/nexium/ros_ws/install/joint_state_publisher_gui/share/joint_state_publisher_gui
+[7.725s] Invoked command in '/home/nexium/ros_ws/build/joint_state_publisher_gui' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} PYTHONPATH=/home/nexium/ros_ws/build/joint_state_publisher_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nexium/ros_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nexium/ros_ws/build/joint_state_publisher_gui/build --no-deps symlink_data

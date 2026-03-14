@@ -1,0 +1,37 @@
+[0.088s] Invoking command in '/home/nexium/ros_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pcd2pgm -- -j12 -l12
+[0.134s] [35m[1mConsolidate compiler generated dependencies of target pcd2pgm_node[0m
+[0.137s] [35m[1mConsolidate compiler generated dependencies of target pcd2pgm[0m
+[0.164s] [ 50%] Built target pcd2pgm_node
+[0.169s] [100%] Built target pcd2pgm
+[0.238s] Invoked command in '/home/nexium/ros_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pcd2pgm -- -j12 -l12
+[0.239s] Invoking command in '/home/nexium/ros_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pcd2pgm
+[0.244s] -- Install configuration: "release"
+[0.246s] -- Execute custom install script
+[0.246s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/lib/pcd2pgm/pcd2pgm_node
+[0.247s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/include/pcd2pgm/pcd2pgm/pcd2pgm.hpp
+[0.247s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/library_path.sh
+[0.247s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/library_path.dsv
+[0.247s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/lib/libpcd2pgm.so
+[0.248s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/config/pcd2pgm.yaml
+[0.248s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/launch/pcd2pgm_launch.py
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/rviz/pcd2pgm.rviz
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/package_run_dependencies/pcd2pgm
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/parent_prefix_path/pcd2pgm
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/ament_prefix_path.sh
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/ament_prefix_path.dsv
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/path.sh
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/path.dsv
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.bash
+[0.249s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.sh
+[0.250s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.zsh
+[0.250s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.dsv
+[0.250s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/package.dsv
+[0.251s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/packages/pcd2pgm
+[0.252s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/rclcpp_components/pcd2pgm
+[0.252s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.252s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.252s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_libraries-extras.cmake
+[0.252s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/pcd2pgmConfig.cmake
+[0.252s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/pcd2pgmConfig-version.cmake
+[0.252s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/package.xml
+[0.274s] Invoked command in '/home/nexium/ros_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pcd2pgm

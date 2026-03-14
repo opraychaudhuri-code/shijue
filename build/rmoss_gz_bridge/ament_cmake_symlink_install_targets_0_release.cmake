@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/nexium/ros_ws/build/rmoss_gz_bridge/pose_bridge" "/home/nexium/ros_ws/build/rmoss_gz_bridge/rfid_bridge" "TARGETS" "pose_bridge" "rfid_bridge" "DESTINATION" "lib/rmoss_gz_bridge")

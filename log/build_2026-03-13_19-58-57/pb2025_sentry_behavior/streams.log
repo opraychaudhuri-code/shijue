@@ -1,0 +1,189 @@
+[0.031s] Invoking command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_behavior -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pb2025_sentry_behavior
+[7.160s] -- The C compiler identification is GNU 11.4.0
+[7.161s] -- The CXX compiler identification is GNU 11.4.0
+[7.161s] -- Detecting C compiler ABI info
+[7.161s] -- Detecting C compiler ABI info - done
+[7.161s] -- Check for working C compiler: /usr/bin/cc - skipped
+[7.161s] -- Detecting C compile features
+[7.161s] -- Detecting C compile features - done
+[7.161s] -- Detecting CXX compiler ABI info
+[7.161s] -- Detecting CXX compiler ABI info - done
+[7.161s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[7.161s] -- Detecting CXX compile features
+[7.161s] -- Detecting CXX compile features - done
+[7.162s] -- Found ament_cmake_auto: 1.3.12 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[7.163s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[7.163s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[7.163s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[7.163s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[7.163s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[7.163s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[7.163s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.163s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[7.163s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[7.163s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.163s] -- Found FastRTPS: /opt/ros/humble/include  
+[7.163s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.163s] -- Looking for pthread.h
+[7.164s] -- Looking for pthread.h - found
+[7.164s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[7.164s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[7.164s] -- Found Threads: TRUE  
+[7.164s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[7.165s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[7.165s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[7.165s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[7.165s] -- Added test 'copyright' to check source files copyright and LICENSE
+[7.165s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.165s] -- Configured cppcheck include dirs: /home/nexium/ros_ws/src/pb2025_sentry_behavior/include
+[7.165s] -- Configured cppcheck exclude dirs and/or files: 
+[7.165s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[7.165s] -- Configured cpplint exclude dirs and/or files: 
+[7.166s] -- Added test 'lint_cmake' to check CMake code style
+[7.167s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[7.168s] -- Added test 'xmllint' to check XML markup files
+[7.168s] -- Added test 'clang_format' to check C / C++ code style
+[7.168s] -- Added test 'black' to check Python code style
+[7.168s] -- Configuring done
+[7.168s] -- Generating done
+[7.168s] -- Build files have been written to: /home/nexium/ros_ws/build/pb2025_sentry_behavior
+[7.168s] [0mIn this package, headers install destination is set to `include` by ament_auto_package. It is recommended to install `include/pb2025_sentry_behavior` instead and will be the default behavior of ament_auto_package from ROS 2 Kilted Kaiju. On distributions before Kilted, ament_auto_package behaves the same way when you use USE_SCOPED_HEADER_INSTALL_DIR option.[0m
+[7.176s] Invoked command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_behavior -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pb2025_sentry_behavior
+[7.176s] Invoking command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/pb2025_sentry_behavior -- -j12 -l12
+[8.536s] [  2%] [32mBuilding CXX object CMakeFiles/pb2025_sentry_behavior_server.dir/src/pb2025_sentry_behavior_server.cpp.o[0m
+[8.537s] [  5%] [32mBuilding CXX object CMakeFiles/action_client.dir/src/pb2025_sentry_behavior_client.cpp.o[0m
+[8.537s] [  8%] [32mBuilding CXX object CMakeFiles/pb2025_sentry_behavior_client.dir/rclcpp_components/node_main_pb2025_sentry_behavior_client.cpp.o[0m
+[14.331s] [ 11%] [32m[1mLinking CXX executable pb2025_sentry_behavior_client[0m
+[14.588s] [ 11%] Built target pb2025_sentry_behavior_client
+[17.752s] [ 13%] [32m[1mLinking CXX shared library libaction_client.so[0m
+[18.226s] [ 13%] Built target action_client
+[87.573s] [ 16%] [32m[1mLinking CXX executable pb2025_sentry_behavior_server[0m
+[88.285s] [ 16%] Built target pb2025_sentry_behavior_server
+[88.309s] [ 19%] [32mBuilding CXX object CMakeFiles/is_game_status.dir/plugins/condition/is_game_status.cpp.o[0m
+[93.418s] [ 22%] [32m[1mLinking CXX shared library libis_game_status.so[0m
+[93.577s] [ 22%] Built target is_game_status
+[93.595s] [ 25%] [32mBuilding CXX object CMakeFiles/is_rfid_detected.dir/plugins/condition/is_rfid_detected.cpp.o[0m
+[97.398s] [ 27%] [32m[1mLinking CXX shared library libis_rfid_detected.so[0m
+[97.568s] [ 27%] Built target is_rfid_detected
+[97.584s] [ 30%] [32mBuilding CXX object CMakeFiles/is_status_ok.dir/plugins/condition/is_status_ok.cpp.o[0m
+[101.398s] [ 33%] [32m[1mLinking CXX shared library libis_status_ok.so[0m
+[101.580s] [ 33%] Built target is_status_ok
+[101.597s] [ 36%] [32mBuilding CXX object CMakeFiles/is_attacked.dir/plugins/condition/is_attacked.cpp.o[0m
+[105.386s] [ 38%] [32m[1mLinking CXX shared library libis_attacked.so[0m
+[105.555s] [ 38%] Built target is_attacked
+[105.571s] [ 41%] [32mBuilding CXX object CMakeFiles/is_detect_enemy.dir/plugins/condition/is_detect_enemy.cpp.o[0m
+[109.480s] [ 44%] [32m[1mLinking CXX shared library libis_detect_enemy.so[0m
+[109.646s] [ 44%] Built target is_detect_enemy
+[109.662s] [ 47%] [32mBuilding CXX object CMakeFiles/send_nav2_goal.dir/plugins/action/send_nav2_goal.cpp.o[0m
+[114.560s] [ 50%] [32m[1mLinking CXX shared library libsend_nav2_goal.so[0m
+[114.745s] [ 50%] Built target send_nav2_goal
+[114.761s] [ 52%] [32mBuilding CXX object CMakeFiles/pub_nav2_goal.dir/plugins/action/pub_nav2_goal.cpp.o[0m
+[119.577s] [ 55%] [32m[1mLinking CXX shared library libpub_nav2_goal.so[0m
+[119.753s] [ 55%] Built target pub_nav2_goal
+[119.770s] [ 58%] [32mBuilding CXX object CMakeFiles/pub_spin_speed.dir/plugins/action/pub_spin_speed.cpp.o[0m
+[124.634s] [ 61%] [32m[1mLinking CXX shared library libpub_spin_speed.so[0m
+[124.805s] [ 61%] Built target pub_spin_speed
+[124.824s] [ 63%] [32mBuilding CXX object CMakeFiles/pub_twist.dir/plugins/action/pub_twist.cpp.o[0m
+[129.759s] [ 66%] [32m[1mLinking CXX shared library libpub_twist.so[0m
+[129.931s] [ 66%] Built target pub_twist
+[129.948s] [ 69%] [32mBuilding CXX object CMakeFiles/pub_gimbal_absolute.dir/plugins/action/pub_gimbal_absolute.cpp.o[0m
+[134.781s] [ 72%] [32m[1mLinking CXX shared library libpub_gimbal_absolute.so[0m
+[134.956s] [ 72%] Built target pub_gimbal_absolute
+[134.974s] [ 75%] [32mBuilding CXX object CMakeFiles/pub_gimbal_velocity.dir/plugins/action/pub_gimbal_velocity.cpp.o[0m
+[139.897s] [ 77%] [32m[1mLinking CXX shared library libpub_gimbal_velocity.so[0m
+[140.072s] [ 77%] Built target pub_gimbal_velocity
+[140.088s] [ 80%] [32mBuilding CXX object CMakeFiles/calculate_attack_pose.dir/plugins/action/calculate_attack_pose.cpp.o[0m
+[146.456s] [ 83%] [32m[1mLinking CXX shared library libcalculate_attack_pose.so[0m
+[146.669s] [ 83%] Built target calculate_attack_pose
+[146.687s] [ 86%] [32mBuilding CXX object CMakeFiles/recovery_node.dir/plugins/control/recovery_node.cpp.o[0m
+[148.806s] [ 88%] [32m[1mLinking CXX shared library librecovery_node.so[0m
+[148.938s] [ 88%] Built target recovery_node
+[148.956s] [ 91%] [32mBuilding CXX object CMakeFiles/rate_controller.dir/plugins/decorator/rate_controller.cpp.o[0m
+[151.025s] [ 94%] [32m[1mLinking CXX shared library librate_controller.so[0m
+[151.152s] [ 94%] Built target rate_controller
+[151.169s] [ 97%] [32mBuilding CXX object CMakeFiles/tick_after_timeout_node.dir/plugins/decorator/tick_after_timeout_node.cpp.o[0m
+[153.252s] [100%] [32m[1mLinking CXX shared library libtick_after_timeout_node.so[0m
+[153.382s] [100%] Built target tick_after_timeout_node
+[153.390s] Invoked command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/pb2025_sentry_behavior -- -j12 -l12
+[153.392s] Invoking command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/pb2025_sentry_behavior
+[153.398s] -- Install configuration: "release"
+[153.398s] -- Execute custom install script
+[153.398s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/pb2025_sentry_behavior/pb2025_sentry_behavior_client
+[153.407s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_game_status.so
+[153.412s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_rfid_detected.so
+[153.417s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_status_ok.so
+[153.424s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_attacked.so
+[153.429s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_detect_enemy.so
+[153.434s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libsend_nav2_goal.so
+[153.440s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_nav2_goal.so
+[153.448s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_spin_speed.so
+[153.453s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_twist.so
+[153.459s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_gimbal_absolute.so
+[153.465s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_gimbal_velocity.so
+[153.470s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libcalculate_attack_pose.so
+[153.476s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/librecovery_node.so
+[153.481s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/librate_controller.so
+[153.486s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libtick_after_timeout_node.so
+[153.492s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/custom_types.hpp
+[153.498s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/pb2025_sentry_behavior_client.hpp
+[153.504s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/pb2025_sentry_behavior_server.hpp
+[153.510s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/calculate_attack_pose.hpp
+[153.515s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_gimbal_absolute.hpp
+[153.521s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_gimbal_velocity.hpp
+[153.527s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_nav2_goal.hpp
+[153.533s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_spin_speed.hpp
+[153.540s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_twist.hpp
+[153.545s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/send_nav2_goal.hpp
+[153.551s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_attacked.hpp
+[153.559s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_detect_enemy.hpp
+[153.565s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_game_status.hpp
+[153.572s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_rfid_detected.hpp
+[153.578s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_status_ok.hpp
+[153.584s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/control/recovery_node.hpp
+[153.589s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/decorator/rate_controller.hpp
+[153.595s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/decorator/tick_after_timeout_node.hpp
+[153.600s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/library_path.sh
+[153.608s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/library_path.dsv
+[153.613s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libaction_client.so
+[153.618s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_game_status.so
+[153.626s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_rfid_detected.so
+[153.633s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_status_ok.so
+[153.638s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_attacked.so
+[153.644s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_detect_enemy.so
+[153.651s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libsend_nav2_goal.so
+[153.658s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_nav2_goal.so
+[153.666s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_spin_speed.so
+[153.673s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_twist.so
+[153.678s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_gimbal_absolute.so
+[153.685s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_gimbal_velocity.so
+[153.690s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libcalculate_attack_pose.so
+[153.698s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/librecovery_node.so
+[153.708s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/librate_controller.so
+[153.716s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libtick_after_timeout_node.so
+[153.724s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/pb2025_sentry_behavior/pb2025_sentry_behavior_server
+[153.731s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/Project.btproj
+[153.738s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/dev_rm.xml
+[153.747s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/models.xml
+[153.757s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/rmul_2025.xml
+[153.764s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/params/sentry_behavior.yaml
+[153.770s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/launch/pb2025_sentry_behavior_launch.py
+[153.775s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/package_run_dependencies/pb2025_sentry_behavior
+[153.783s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/parent_prefix_path/pb2025_sentry_behavior
+[153.789s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/ament_prefix_path.sh
+[153.796s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/ament_prefix_path.dsv
+[153.802s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/path.sh
+[153.809s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/path.dsv
+[153.814s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.bash
+[153.821s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.sh
+[153.826s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.zsh
+[153.833s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.dsv
+[153.838s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/package.dsv
+[153.844s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/packages/pb2025_sentry_behavior
+[153.850s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/rclcpp_components/pb2025_sentry_behavior
+[153.856s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_dependencies-extras.cmake
+[153.860s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_include_directories-extras.cmake
+[153.866s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_libraries-extras.cmake
+[153.872s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/pb2025_sentry_behaviorConfig.cmake
+[153.879s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/pb2025_sentry_behaviorConfig-version.cmake
+[153.885s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/package.xml
+[153.893s] Invoked command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/pb2025_sentry_behavior

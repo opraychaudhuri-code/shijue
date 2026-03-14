@@ -1,0 +1,15 @@
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/ament_index/resource_index/package_run_dependencies/pb2025_sentry_nav
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/ament_index/resource_index/parent_prefix_path/pb2025_sentry_nav
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/environment/ament_prefix_path.sh
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/environment/ament_prefix_path.dsv
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/environment/path.sh
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/environment/path.dsv
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/local_setup.bash
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/local_setup.sh
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/local_setup.zsh
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/local_setup.dsv
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/package.dsv
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/ament_index/resource_index/packages/pb2025_sentry_nav
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/cmake/pb2025_sentry_navConfig.cmake
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/cmake/pb2025_sentry_navConfig-version.cmake
+/home/nexium/ros_ws/install/pb2025_sentry_nav/share/pb2025_sentry_nav/package.xml

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-07d04cd05c47f0a79695.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "terrain_analysis_ext",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "terrainAnalysisExt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-terrainAnalysisExt-release-ca7ddee98861f78a3a31.json",
+					"name" : "terrainAnalysisExt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "terrain_analysis_ext_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-terrain_analysis_ext_uninstall-release-0d7630fc07e155a3ca6e.json",
+					"name" : "terrain_analysis_ext_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-18828ae013657f73a210.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/terrain_analysis_ext",
+		"source" : "/home/nexium/ros_ws/src/pb2025_sentry_nav/terrain_analysis_ext"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

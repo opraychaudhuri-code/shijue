@@ -1,0 +1,131 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-70956a8788b97ef9dc07.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "_deps/small_gicp-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.small_gicp-build-release-a9b6cc12b099d7500a7c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/nexium/ros_ws/build/small_gicp_relocalization/_deps/small_gicp-src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "small_gicp_relocalization",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "small_gicp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "small_gicp::@a721e4fde064364a2bed",
+					"jsonFile" : "target-small_gicp-release-21a5dfd4cc56e677f012.json",
+					"name" : "small_gicp",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "small_gicp_relocalization::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-small_gicp_relocalization-release-735147c2b102f1c721b0.json",
+					"name" : "small_gicp_relocalization",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "small_gicp_relocalization_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-small_gicp_relocalization_node-release-5d1763cf54b238ba75ef.json",
+					"name" : "small_gicp_relocalization_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "small_gicp_relocalization_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-small_gicp_relocalization_uninstall-release-2985c21b40aed731798d.json",
+					"name" : "small_gicp_relocalization_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-939736dde47d75af73f4.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/small_gicp_relocalization",
+		"source" : "/home/nexium/ros_ws/src/pb2025_sentry_nav/small_gicp_relocalization"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

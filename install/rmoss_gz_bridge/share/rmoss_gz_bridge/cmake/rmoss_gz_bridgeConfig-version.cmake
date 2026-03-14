@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_gz_bridge/ament_cmake_core/rmoss_gz_bridgeConfig-version.cmake

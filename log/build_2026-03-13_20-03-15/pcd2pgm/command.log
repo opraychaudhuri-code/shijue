@@ -1,0 +1,4 @@
+Invoking command in '/home/nexium/ros_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pcd2pgm -- -j12 -l12
+Invoked command in '/home/nexium/ros_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pcd2pgm -- -j12 -l12
+Invoking command in '/home/nexium/ros_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pcd2pgm
+Invoked command in '/home/nexium/ros_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pcd2pgm

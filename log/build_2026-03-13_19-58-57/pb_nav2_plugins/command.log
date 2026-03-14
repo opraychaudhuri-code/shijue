@@ -1,0 +1,6 @@
+Invoking command in '/home/nexium/ros_ws/build/pb_nav2_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/pb_nav2_plugins -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pb_nav2_plugins
+Invoked command in '/home/nexium/ros_ws/build/pb_nav2_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/pb_nav2_plugins -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pb_nav2_plugins
+Invoking command in '/home/nexium/ros_ws/build/pb_nav2_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pb_nav2_plugins -- -j12 -l12
+Invoked command in '/home/nexium/ros_ws/build/pb_nav2_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pb_nav2_plugins -- -j12 -l12
+Invoking command in '/home/nexium/ros_ws/build/pb_nav2_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pb_nav2_plugins
+Invoked command in '/home/nexium/ros_ws/build/pb_nav2_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pb_nav2_plugins

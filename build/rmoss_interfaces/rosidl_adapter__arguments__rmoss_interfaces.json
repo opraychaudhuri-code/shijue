@@ -1,0 +1,22 @@
+{
+  "package_name": "rmoss_interfaces",
+  "non_idl_tuples": [
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/referee/RefereeCmd.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/referee/GameStatus.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/referee/RobotStatus.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/referee/RfidStatus.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/referee/RfidStatusArray.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/referee/ExchangeAmmon.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/Gimbal.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/GimbalCmd.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/ShootCmd.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:msg/ChassisCmd.msg",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:srv/SetColor.srv",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:srv/SetMode.srv",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:srv/GetMode.srv",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:srv/GetCameraInfo.srv",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:srv/GetTaskStatus.srv",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:srv/ControlTask.srv",
+    "/home/nexium/ros_ws/src/rmoss_interfaces:srv/ExchangeAmmon.srv"
+  ]
+}

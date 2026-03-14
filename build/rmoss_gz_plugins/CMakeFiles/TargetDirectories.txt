@@ -1,0 +1,12 @@
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/uninstall.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/rmoss_gz_plugins_uninstall.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/MecanumDrive2.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/ProjectileShooter.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/LightBarController.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/test.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/edit_cache.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/rebuild_cache.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/list_install_components.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/install.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/install/local.dir
+/home/nexium/ros_ws/build/rmoss_gz_plugins/CMakeFiles/install/strip.dir

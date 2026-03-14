@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_interfaces/rosidl_generator_py/rmoss_interfaces/msg/_game_status.py

@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/src/rmoss_core/rmoss_cam/include/rmoss_cam/usb_cam.hpp

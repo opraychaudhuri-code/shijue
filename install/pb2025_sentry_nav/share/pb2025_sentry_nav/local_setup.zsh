@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/pb2025_sentry_nav/ament_cmake_environment_hooks/local_setup.zsh

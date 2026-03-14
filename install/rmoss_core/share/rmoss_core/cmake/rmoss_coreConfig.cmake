@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_core/ament_cmake_core/rmoss_coreConfig.cmake

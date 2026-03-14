@@ -1,0 +1,183 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake_auto: 1.3.12 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+-- Found Eigen3: TRUE (found version "3.4.0") 
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/nexium/ros_ws/src/pb2025_sentry_behavior/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Added test 'clang_format' to check C / C++ code style
+-- Added test 'black' to check Python code style
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nexium/ros_ws/build/pb2025_sentry_behavior
+[0mIn this package, headers install destination is set to `include` by ament_auto_package. It is recommended to install `include/pb2025_sentry_behavior` instead and will be the default behavior of ament_auto_package from ROS 2 Kilted Kaiju. On distributions before Kilted, ament_auto_package behaves the same way when you use USE_SCOPED_HEADER_INSTALL_DIR option.[0m
+[  2%] [32mBuilding CXX object CMakeFiles/pb2025_sentry_behavior_server.dir/src/pb2025_sentry_behavior_server.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/action_client.dir/src/pb2025_sentry_behavior_client.cpp.o[0m
+[  8%] [32mBuilding CXX object CMakeFiles/pb2025_sentry_behavior_client.dir/rclcpp_components/node_main_pb2025_sentry_behavior_client.cpp.o[0m
+[ 11%] [32m[1mLinking CXX executable pb2025_sentry_behavior_client[0m
+[ 11%] Built target pb2025_sentry_behavior_client
+[ 13%] [32m[1mLinking CXX shared library libaction_client.so[0m
+[ 13%] Built target action_client
+[ 16%] [32m[1mLinking CXX executable pb2025_sentry_behavior_server[0m
+[ 16%] Built target pb2025_sentry_behavior_server
+[ 19%] [32mBuilding CXX object CMakeFiles/is_game_status.dir/plugins/condition/is_game_status.cpp.o[0m
+[ 22%] [32m[1mLinking CXX shared library libis_game_status.so[0m
+[ 22%] Built target is_game_status
+[ 25%] [32mBuilding CXX object CMakeFiles/is_rfid_detected.dir/plugins/condition/is_rfid_detected.cpp.o[0m
+[ 27%] [32m[1mLinking CXX shared library libis_rfid_detected.so[0m
+[ 27%] Built target is_rfid_detected
+[ 30%] [32mBuilding CXX object CMakeFiles/is_status_ok.dir/plugins/condition/is_status_ok.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library libis_status_ok.so[0m
+[ 33%] Built target is_status_ok
+[ 36%] [32mBuilding CXX object CMakeFiles/is_attacked.dir/plugins/condition/is_attacked.cpp.o[0m
+[ 38%] [32m[1mLinking CXX shared library libis_attacked.so[0m
+[ 38%] Built target is_attacked
+[ 41%] [32mBuilding CXX object CMakeFiles/is_detect_enemy.dir/plugins/condition/is_detect_enemy.cpp.o[0m
+[ 44%] [32m[1mLinking CXX shared library libis_detect_enemy.so[0m
+[ 44%] Built target is_detect_enemy
+[ 47%] [32mBuilding CXX object CMakeFiles/send_nav2_goal.dir/plugins/action/send_nav2_goal.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library libsend_nav2_goal.so[0m
+[ 50%] Built target send_nav2_goal
+[ 52%] [32mBuilding CXX object CMakeFiles/pub_nav2_goal.dir/plugins/action/pub_nav2_goal.cpp.o[0m
+[ 55%] [32m[1mLinking CXX shared library libpub_nav2_goal.so[0m
+[ 55%] Built target pub_nav2_goal
+[ 58%] [32mBuilding CXX object CMakeFiles/pub_spin_speed.dir/plugins/action/pub_spin_speed.cpp.o[0m
+[ 61%] [32m[1mLinking CXX shared library libpub_spin_speed.so[0m
+[ 61%] Built target pub_spin_speed
+[ 63%] [32mBuilding CXX object CMakeFiles/pub_twist.dir/plugins/action/pub_twist.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library libpub_twist.so[0m
+[ 66%] Built target pub_twist
+[ 69%] [32mBuilding CXX object CMakeFiles/pub_gimbal_absolute.dir/plugins/action/pub_gimbal_absolute.cpp.o[0m
+[ 72%] [32m[1mLinking CXX shared library libpub_gimbal_absolute.so[0m
+[ 72%] Built target pub_gimbal_absolute
+[ 75%] [32mBuilding CXX object CMakeFiles/pub_gimbal_velocity.dir/plugins/action/pub_gimbal_velocity.cpp.o[0m
+[ 77%] [32m[1mLinking CXX shared library libpub_gimbal_velocity.so[0m
+[ 77%] Built target pub_gimbal_velocity
+[ 80%] [32mBuilding CXX object CMakeFiles/calculate_attack_pose.dir/plugins/action/calculate_attack_pose.cpp.o[0m
+[ 83%] [32m[1mLinking CXX shared library libcalculate_attack_pose.so[0m
+[ 83%] Built target calculate_attack_pose
+[ 86%] [32mBuilding CXX object CMakeFiles/recovery_node.dir/plugins/control/recovery_node.cpp.o[0m
+[ 88%] [32m[1mLinking CXX shared library librecovery_node.so[0m
+[ 88%] Built target recovery_node
+[ 91%] [32mBuilding CXX object CMakeFiles/rate_controller.dir/plugins/decorator/rate_controller.cpp.o[0m
+[ 94%] [32m[1mLinking CXX shared library librate_controller.so[0m
+[ 94%] Built target rate_controller
+[ 97%] [32mBuilding CXX object CMakeFiles/tick_after_timeout_node.dir/plugins/decorator/tick_after_timeout_node.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library libtick_after_timeout_node.so[0m
+[100%] Built target tick_after_timeout_node
+-- Install configuration: "release"
+-- Execute custom install script
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/pb2025_sentry_behavior/pb2025_sentry_behavior_client
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_game_status.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_rfid_detected.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_status_ok.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_attacked.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_detect_enemy.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libsend_nav2_goal.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_nav2_goal.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_spin_speed.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_twist.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_gimbal_absolute.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_gimbal_velocity.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libcalculate_attack_pose.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/librecovery_node.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/librate_controller.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libtick_after_timeout_node.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/custom_types.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/pb2025_sentry_behavior_client.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/pb2025_sentry_behavior_server.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/calculate_attack_pose.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_gimbal_absolute.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_gimbal_velocity.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_nav2_goal.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_spin_speed.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_twist.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/send_nav2_goal.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_attacked.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_detect_enemy.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_game_status.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_rfid_detected.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_status_ok.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/control/recovery_node.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/decorator/rate_controller.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/decorator/tick_after_timeout_node.hpp
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/library_path.sh
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/library_path.dsv
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libaction_client.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_game_status.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_rfid_detected.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_status_ok.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_attacked.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_detect_enemy.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libsend_nav2_goal.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_nav2_goal.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_spin_speed.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_twist.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_gimbal_absolute.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_gimbal_velocity.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libcalculate_attack_pose.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/librecovery_node.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/librate_controller.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libtick_after_timeout_node.so
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/pb2025_sentry_behavior/pb2025_sentry_behavior_server
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/Project.btproj
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/dev_rm.xml
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/models.xml
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/rmul_2025.xml
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/params/sentry_behavior.yaml
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/launch/pb2025_sentry_behavior_launch.py
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/package_run_dependencies/pb2025_sentry_behavior
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/parent_prefix_path/pb2025_sentry_behavior
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/ament_prefix_path.sh
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/ament_prefix_path.dsv
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/path.sh
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/path.dsv
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.bash
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.sh
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.zsh
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.dsv
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/package.dsv
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/packages/pb2025_sentry_behavior
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/rclcpp_components/pb2025_sentry_behavior
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/pb2025_sentry_behaviorConfig.cmake
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/pb2025_sentry_behaviorConfig-version.cmake
+-- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/package.xml

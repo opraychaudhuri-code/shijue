@@ -1,0 +1,11 @@
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/Buff.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/EventData.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/GameRobotHP.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/GameStatus.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/GroundRobotPosition.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/RfidStatus.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/RobotStatus.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/Gimbal.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/GimbalCmd.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/Models.idl
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_adapter/pb_rm_interfaces:msg/RobotStateInfo.idl

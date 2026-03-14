@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_interfaces/rosidl_cmake/srv/GetMode_Response.msg

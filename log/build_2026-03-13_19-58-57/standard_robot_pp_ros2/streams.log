@@ -1,0 +1,100 @@
+[0.076s] Invoking command in '/home/nexium/ros_ws/build/standard_robot_pp_ros2': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/sdformat_tools:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/joint_state_publisher:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PATH=/home/nexium/ros_ws/install/sdformat_tools/bin:${PATH} PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nexium/ros_ws/src/standard_robot_pp_ros2 -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/standard_robot_pp_ros2
+[19.433s] -- The C compiler identification is GNU 11.4.0
+[19.433s] -- The CXX compiler identification is GNU 11.4.0
+[19.433s] -- Detecting C compiler ABI info
+[19.433s] -- Detecting C compiler ABI info - done
+[19.433s] -- Check for working C compiler: /usr/bin/cc - skipped
+[19.433s] -- Detecting C compile features
+[19.433s] -- Detecting C compile features - done
+[19.433s] -- Detecting CXX compiler ABI info
+[19.433s] -- Detecting CXX compiler ABI info - done
+[19.433s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[19.433s] -- Detecting CXX compile features
+[19.434s] -- Detecting CXX compile features - done
+[19.434s] -- Found ament_cmake_auto: 1.3.12 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[19.434s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[19.434s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[19.434s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[19.434s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[19.434s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[19.435s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[19.435s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[19.435s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[19.435s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[19.435s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[19.435s] -- Found FastRTPS: /opt/ros/humble/include  
+[19.436s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[19.437s] -- Looking for pthread.h
+[19.438s] -- Looking for pthread.h - found
+[19.438s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[19.438s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[19.438s] -- Found Threads: TRUE  
+[19.438s] -- Found ASIO: /usr/include  
+[19.438s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[19.438s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[19.438s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[19.438s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[19.438s] -- Added test 'copyright' to check source files copyright and LICENSE
+[19.438s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[19.438s] -- Configured cppcheck include dirs: /home/nexium/ros_ws/src/standard_robot_pp_ros2/include
+[19.439s] -- Configured cppcheck exclude dirs and/or files: 
+[19.439s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[19.439s] -- Configured cpplint exclude dirs and/or files: 
+[19.439s] -- Added test 'lint_cmake' to check CMake code style
+[19.439s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[19.442s] -- Added test 'xmllint' to check XML markup files
+[19.443s] -- Added test 'clang_format' to check C / C++ code style
+[19.443s] -- Added test 'black' to check Python code style
+[19.443s] -- Configuring done
+[19.443s] -- Generating done
+[19.443s] -- Build files have been written to: /home/nexium/ros_ws/build/standard_robot_pp_ros2
+[19.443s] [0mIn this package, headers install destination is set to `include` by ament_auto_package. It is recommended to install `include/standard_robot_pp_ros2` instead and will be the default behavior of ament_auto_package from ROS 2 Kilted Kaiju. On distributions before Kilted, ament_auto_package behaves the same way when you use USE_SCOPED_HEADER_INSTALL_DIR option.[0m
+[19.448s] Invoked command in '/home/nexium/ros_ws/build/standard_robot_pp_ros2' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/sdformat_tools:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/joint_state_publisher:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PATH=/home/nexium/ros_ws/install/sdformat_tools/bin:${PATH} PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nexium/ros_ws/src/standard_robot_pp_ros2 -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/standard_robot_pp_ros2
+[19.450s] Invoking command in '/home/nexium/ros_ws/build/standard_robot_pp_ros2': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/sdformat_tools:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/joint_state_publisher:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PATH=/home/nexium/ros_ws/install/sdformat_tools/bin:${PATH} PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/standard_robot_pp_ros2 -- -j12 -l12
+[19.769s] [ 12%] [32mBuilding CXX object CMakeFiles/standard_robot_pp_ros2.dir/src/crc8_crc16.cpp.o[0m
+[19.769s] [ 25%] [32mBuilding CXX object CMakeFiles/standard_robot_pp_ros2.dir/src/standard_robot_pp_ros2.cpp.o[0m
+[68.806s] [ 37%] [32mBuilding CXX object CMakeFiles/standard_robot_pp_ros2.dir/src/gimbal_manager.cpp.o[0m
+[82.108s] [ 50%] [32m[1mLinking CXX shared library libstandard_robot_pp_ros2.so[0m
+[82.422s] [ 50%] Built target standard_robot_pp_ros2
+[82.441s] [ 62%] [32mBuilding CXX object CMakeFiles/standard_robot_pp_ros2_node.dir/rclcpp_components/node_main_standard_robot_pp_ros2_node.cpp.o[0m
+[82.444s] [ 75%] [32mBuilding CXX object CMakeFiles/gimbal_manager_node.dir/rclcpp_components/node_main_gimbal_manager_node.cpp.o[0m
+[85.252s] [ 87%] [32m[1mLinking CXX executable standard_robot_pp_ros2_node[0m
+[85.287s] [100%] [32m[1mLinking CXX executable gimbal_manager_node[0m
+[85.361s] [100%] Built target standard_robot_pp_ros2_node
+[85.422s] [100%] Built target gimbal_manager_node
+[85.431s] Invoked command in '/home/nexium/ros_ws/build/standard_robot_pp_ros2' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/sdformat_tools:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/joint_state_publisher:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PATH=/home/nexium/ros_ws/install/sdformat_tools/bin:${PATH} PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/standard_robot_pp_ros2 -- -j12 -l12
+[85.433s] Invoking command in '/home/nexium/ros_ws/build/standard_robot_pp_ros2': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/sdformat_tools:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/joint_state_publisher:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PATH=/home/nexium/ros_ws/install/sdformat_tools/bin:${PATH} PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/standard_robot_pp_ros2
+[85.440s] -- Install configuration: "release"
+[85.440s] -- Execute custom install script
+[85.441s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/lib/standard_robot_pp_ros2/standard_robot_pp_ros2_node
+[85.448s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/lib/standard_robot_pp_ros2/gimbal_manager_node
+[85.456s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/include/standard_robot_pp_ros2/crc8_crc16.hpp
+[85.465s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/include/standard_robot_pp_ros2/gimbal_manager.hpp
+[85.473s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/include/standard_robot_pp_ros2/packet_typedef.hpp
+[85.481s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/include/standard_robot_pp_ros2/robot_info.hpp
+[85.490s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/include/standard_robot_pp_ros2/standard_robot_pp_ros2.hpp
+[85.499s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/environment/library_path.sh
+[85.507s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/environment/library_path.dsv
+[85.515s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/lib/libstandard_robot_pp_ros2.so
+[85.523s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/config/standard_robot_pp_ros2.yaml
+[85.531s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/launch/standard_robot_pp_ros2.launch.py
+[85.539s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/ament_index/resource_index/package_run_dependencies/standard_robot_pp_ros2
+[85.546s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/ament_index/resource_index/parent_prefix_path/standard_robot_pp_ros2
+[85.555s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/environment/ament_prefix_path.sh
+[85.564s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/environment/ament_prefix_path.dsv
+[85.572s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/environment/path.sh
+[85.580s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/environment/path.dsv
+[85.588s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/local_setup.bash
+[85.596s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/local_setup.sh
+[85.604s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/local_setup.zsh
+[85.613s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/local_setup.dsv
+[85.621s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/package.dsv
+[85.629s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/ament_index/resource_index/packages/standard_robot_pp_ros2
+[85.636s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/ament_index/resource_index/rclcpp_components/standard_robot_pp_ros2
+[85.643s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/cmake/ament_cmake_export_dependencies-extras.cmake
+[85.649s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/cmake/ament_cmake_export_include_directories-extras.cmake
+[85.658s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/cmake/ament_cmake_export_libraries-extras.cmake
+[85.665s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/cmake/standard_robot_pp_ros2Config.cmake
+[85.672s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/cmake/standard_robot_pp_ros2Config-version.cmake
+[85.678s] -- Symlinking: /home/nexium/ros_ws/install/standard_robot_pp_ros2/share/standard_robot_pp_ros2/package.xml
+[85.686s] Invoked command in '/home/nexium/ros_ws/build/standard_robot_pp_ros2' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/sdformat_tools:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/joint_state_publisher:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/pb2025_robot_description:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PATH=/home/nexium/ros_ws/install/sdformat_tools/bin:${PATH} PYTHONPATH=/home/nexium/ros_ws/build/sdformat_tools:/home/nexium/ros_ws/install/sdformat_tools/lib/python3.10/site-packages:/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/build/joint_state_publisher:/home/nexium/ros_ws/install/joint_state_publisher/lib/python3.10/site-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/standard_robot_pp_ros2

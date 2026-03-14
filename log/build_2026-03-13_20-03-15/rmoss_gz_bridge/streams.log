@@ -1,0 +1,30 @@
+[0.077s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_bridge': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_bridge -- -j12 -l12
+[0.105s] [35m[1mConsolidate compiler generated dependencies of target pose_bridge[0m
+[0.112s] [35m[1mConsolidate compiler generated dependencies of target rfid_bridge[0m
+[0.143s] [ 50%] Built target pose_bridge
+[0.150s] [100%] Built target rfid_bridge
+[0.190s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_bridge' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_bridge -- -j12 -l12
+[0.192s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_bridge': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_bridge
+[0.203s] -- Install configuration: "release"
+[0.203s] -- Execute custom install script
+[0.203s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/include/rmoss_gz_bridge/pose_bridge_node.hpp
+[0.203s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/include/rmoss_gz_bridge/rfid_bridge_node.hpp
+[0.205s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/lib/rmoss_gz_bridge/pose_bridge
+[0.206s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/lib/rmoss_gz_bridge/rfid_bridge
+[0.206s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/ament_index/resource_index/package_run_dependencies/rmoss_gz_bridge
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/ament_index/resource_index/parent_prefix_path/rmoss_gz_bridge
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/environment/ament_prefix_path.sh
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/environment/ament_prefix_path.dsv
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/environment/path.sh
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/environment/path.dsv
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/local_setup.bash
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/local_setup.sh
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/local_setup.zsh
+[0.207s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/local_setup.dsv
+[0.207s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/package.dsv
+[0.209s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/ament_index/resource_index/packages/rmoss_gz_bridge
+[0.209s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.209s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/cmake/rmoss_gz_bridgeConfig.cmake
+[0.209s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/cmake/rmoss_gz_bridgeConfig-version.cmake
+[0.210s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_bridge/share/rmoss_gz_bridge/package.xml
+[0.246s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_bridge' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/rmoss_interfaces:/home/nexium/ros_ws/install/rmoss_gz_resources:/home/nexium/ros_ws/install/rmoss_gz_plugins:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/rmoss_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/rmoss_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_bridge

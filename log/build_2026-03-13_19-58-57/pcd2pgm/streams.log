@@ -1,0 +1,126 @@
+[0.017s] Invoking command in '/home/nexium/ros_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pcd2pgm -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pcd2pgm
+[22.010s] -- The C compiler identification is GNU 11.4.0
+[22.011s] -- The CXX compiler identification is GNU 11.4.0
+[22.011s] -- Detecting C compiler ABI info
+[22.011s] -- Detecting C compiler ABI info - done
+[22.011s] -- Check for working C compiler: /usr/bin/cc - skipped
+[22.011s] -- Detecting C compile features
+[22.011s] -- Detecting C compile features - done
+[22.011s] -- Detecting CXX compiler ABI info
+[22.011s] -- Detecting CXX compiler ABI info - done
+[22.011s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[22.011s] -- Detecting CXX compile features
+[22.012s] -- Detecting CXX compile features - done
+[22.012s] -- Found ament_cmake_auto: 1.3.12 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[22.012s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[22.012s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[22.013s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[22.013s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[22.013s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[22.013s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[22.013s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[22.013s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[22.013s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[22.013s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[22.014s] -- Found FastRTPS: /opt/ros/humble/include  
+[22.016s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[22.016s] -- Looking for pthread.h
+[22.016s] -- Looking for pthread.h - found
+[22.016s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[22.016s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[22.017s] -- Found Threads: TRUE  
+[22.017s] -- Checking for module 'eigen3'
+[22.017s] --   Found eigen3, version 3.4.0
+[22.017s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[22.017s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[22.017s] -- Checking for module 'flann'
+[22.017s] --   Found flann, version 1.9.1
+[22.017s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[22.017s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[22.017s] -- Checking for module 'libusb-1.0'
+[22.017s] --   Found libusb-1.0, version 1.0.25
+[22.017s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[22.018s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[22.018s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[22.018s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[22.018s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[22.018s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[22.018s] -- Found Qhull version 8.0.2
+[22.018s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[22.018s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[22.018s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[22.018s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[22.019s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[22.019s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[22.019s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[22.019s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[22.019s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[22.019s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[22.019s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[22.019s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[22.019s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[22.019s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[22.019s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[22.019s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[22.019s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[22.020s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[22.020s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[22.020s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[22.020s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[22.020s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[22.020s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[22.020s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[22.020s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[22.020s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[22.020s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[22.020s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[22.020s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[22.020s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[22.020s] -- Added test 'clang_format' to check C / C++ code style
+[22.020s] -- Added test 'clang_tidy' to check C / C++ code style
+[22.020s] -- Added test 'black' to check Python code style
+[22.020s] -- Added test 'xmllint' to check XML markup files
+[22.021s] -- Added test 'copyright' to check source files copyright and LICENSE
+[22.021s] -- Configuring done
+[22.021s] -- Generating done
+[22.021s] -- Build files have been written to: /home/nexium/ros_ws/build/pcd2pgm
+[22.039s] Invoked command in '/home/nexium/ros_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pcd2pgm -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pcd2pgm
+[22.040s] Invoking command in '/home/nexium/ros_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pcd2pgm -- -j12 -l12
+[22.585s] [ 25%] [32mBuilding CXX object CMakeFiles/pcd2pgm.dir/src/pcd2pgm.cpp.o[0m
+[43.208s] [ 50%] [32m[1mLinking CXX shared library libpcd2pgm.so[0m
+[44.904s] [ 50%] Built target pcd2pgm
+[44.943s] [ 75%] [32mBuilding CXX object CMakeFiles/pcd2pgm_node.dir/rclcpp_components/node_main_pcd2pgm_node.cpp.o[0m
+[49.148s] [100%] [32m[1mLinking CXX executable pcd2pgm_node[0m
+[49.273s] [100%] Built target pcd2pgm_node
+[49.284s] Invoked command in '/home/nexium/ros_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pcd2pgm -- -j12 -l12
+[49.299s] Invoking command in '/home/nexium/ros_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pcd2pgm
+[49.304s] -- Install configuration: "release"
+[49.305s] -- Execute custom install script
+[49.305s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/lib/pcd2pgm/pcd2pgm_node
+[49.312s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/include/pcd2pgm/pcd2pgm/pcd2pgm.hpp
+[49.327s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/library_path.sh
+[49.339s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/library_path.dsv
+[49.351s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/lib/libpcd2pgm.so
+[49.364s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/config/pcd2pgm.yaml
+[49.376s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/launch/pcd2pgm_launch.py
+[49.388s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/rviz/pcd2pgm.rviz
+[49.400s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/package_run_dependencies/pcd2pgm
+[49.413s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/parent_prefix_path/pcd2pgm
+[49.426s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/ament_prefix_path.sh
+[49.438s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/ament_prefix_path.dsv
+[49.450s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/path.sh
+[49.461s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/environment/path.dsv
+[49.471s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.bash
+[49.479s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.sh
+[49.488s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.zsh
+[49.497s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/local_setup.dsv
+[49.506s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/package.dsv
+[49.518s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/packages/pcd2pgm
+[49.532s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/ament_index/resource_index/rclcpp_components/pcd2pgm
+[49.545s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_dependencies-extras.cmake
+[49.558s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_include_directories-extras.cmake
+[49.569s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_libraries-extras.cmake
+[49.580s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/pcd2pgmConfig.cmake
+[49.593s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/cmake/pcd2pgmConfig-version.cmake
+[49.605s] -- Symlinking: /home/nexium/ros_ws/install/pcd2pgm/share/pcd2pgm/package.xml
+[49.620s] Invoked command in '/home/nexium/ros_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pcd2pgm

@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_interfaces/rosidl_generator_cpp/rmoss_interfaces/srv/detail/set_color__traits.hpp

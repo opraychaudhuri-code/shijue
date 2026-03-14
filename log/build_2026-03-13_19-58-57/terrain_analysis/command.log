@@ -1,0 +1,6 @@
+Invoking command in '/home/nexium/ros_ws/build/terrain_analysis': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/terrain_analysis -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/terrain_analysis
+Invoked command in '/home/nexium/ros_ws/build/terrain_analysis' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/terrain_analysis -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/terrain_analysis
+Invoking command in '/home/nexium/ros_ws/build/terrain_analysis': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/terrain_analysis -- -j12 -l12
+Invoked command in '/home/nexium/ros_ws/build/terrain_analysis' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/terrain_analysis -- -j12 -l12
+Invoking command in '/home/nexium/ros_ws/build/terrain_analysis': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/terrain_analysis
+Invoked command in '/home/nexium/ros_ws/build/terrain_analysis' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/terrain_analysis

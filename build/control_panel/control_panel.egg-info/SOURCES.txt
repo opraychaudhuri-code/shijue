@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+control_panel/__init__.py
+control_panel/gui.py
+control_panel/publisher.py
+control_panel.egg-info/PKG-INFO
+control_panel.egg-info/SOURCES.txt
+control_panel.egg-info/dependency_links.txt
+control_panel.egg-info/entry_points.txt
+control_panel.egg-info/requires.txt
+control_panel.egg-info/top_level.txt
+control_panel.egg-info/zip-safe
+resource/control_panel

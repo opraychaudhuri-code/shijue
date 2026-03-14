@@ -1,0 +1,31 @@
+[0.029s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_plugins -- -j12 -l12
+[0.458s] [35m[1mConsolidate compiler generated dependencies of target MecanumDrive2[0m
+[0.459s] [35m[1mConsolidate compiler generated dependencies of target LightBarController[0m
+[0.459s] [35m[1mConsolidate compiler generated dependencies of target ProjectileShooter[0m
+[0.459s] [ 33%] Built target MecanumDrive2
+[0.459s] [ 66%] Built target LightBarController
+[0.459s] [100%] Built target ProjectileShooter
+[0.473s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/rmoss_gz_plugins -- -j12 -l12
+[0.474s] Invoking command in '/home/nexium/ros_ws/build/rmoss_gz_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_plugins
+[0.499s] -- Install configuration: "release"
+[0.499s] -- Execute custom install script
+[0.499s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/plugins/libMecanumDrive2.so
+[0.499s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/plugins/libProjectileShooter.so
+[0.499s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/plugins/libLightBarController.so
+[0.499s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/environment/gazebo.dsv
+[0.499s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/ament_index/resource_index/package_run_dependencies/rmoss_gz_plugins
+[0.501s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/ament_index/resource_index/parent_prefix_path/rmoss_gz_plugins
+[0.501s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/environment/ament_prefix_path.sh
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/environment/ament_prefix_path.dsv
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/environment/path.sh
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/environment/path.dsv
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/local_setup.bash
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/local_setup.sh
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/local_setup.zsh
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/local_setup.dsv
+[0.502s] -- Symlinking: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/package.dsv
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/ament_index/resource_index/packages/rmoss_gz_plugins
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/cmake/rmoss_gz_pluginsConfig.cmake
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/cmake/rmoss_gz_pluginsConfig-version.cmake
+[0.502s] -- Up-to-date symlink: /home/nexium/ros_ws/install/rmoss_gz_plugins/share/rmoss_gz_plugins/package.xml
+[0.641s] Invoked command in '/home/nexium/ros_ws/build/rmoss_gz_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/rmoss_gz_plugins

@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/pb_rm_interfaces/rosidl_typesupport_fastrtps_c/pb_rm_interfaces/msg/detail/game_robot_hp__rosidl_typesupport_fastrtps_c.h

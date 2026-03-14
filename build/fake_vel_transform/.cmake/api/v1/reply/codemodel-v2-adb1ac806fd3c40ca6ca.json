@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-fd6d18e57e349e1a6d02.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fake_vel_transform",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fake_vel_transform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fake_vel_transform-release-ee8e028586f46c03f5a6.json",
+					"name" : "fake_vel_transform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fake_vel_transform_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fake_vel_transform_node-release-b3e72ce30c49c288dee4.json",
+					"name" : "fake_vel_transform_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fake_vel_transform_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fake_vel_transform_uninstall-release-c3c785acbe8fa291204e.json",
+					"name" : "fake_vel_transform_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-60676cc1e329f57f5e3a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/fake_vel_transform",
+		"source" : "/home/nexium/ros_ws/src/pb2025_sentry_nav/fake_vel_transform"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

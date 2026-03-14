@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/src/pb2025_sentry_nav/pointcloud_to_laserscan/launch/sample_pointcloud_to_laserscan_launch.py

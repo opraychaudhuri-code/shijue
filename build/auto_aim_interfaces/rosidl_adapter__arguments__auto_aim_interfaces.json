@@ -1,0 +1,13 @@
+{
+  "package_name": "auto_aim_interfaces",
+  "non_idl_tuples": [
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/Armor.msg",
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/Armors.msg",
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/Target.msg",
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/DebugLight.msg",
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/DebugLights.msg",
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/DebugArmor.msg",
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/DebugArmors.msg",
+    "/home/nexium/ros_ws/src/auto_aim_interfaces:msg/TrackerInfo.msg"
+  ]
+}

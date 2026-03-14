@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-2427b8727f8ad1fae282.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sensor_scan_generation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sensor_scan_generation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sensor_scan_generation-release-9e6734d012b41b34ded4.json",
+					"name" : "sensor_scan_generation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sensor_scan_generation_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sensor_scan_generation_node-release-3e2d3cef2db4991cc9e7.json",
+					"name" : "sensor_scan_generation_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sensor_scan_generation_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sensor_scan_generation_uninstall-release-9c8e37c83c5d1accefb6.json",
+					"name" : "sensor_scan_generation_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-3d9a0f4419afade3dbb8.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/sensor_scan_generation",
+		"source" : "/home/nexium/ros_ws/src/pb2025_sentry_nav/sensor_scan_generation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

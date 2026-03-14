@@ -1,0 +1,82 @@
+[0.069s] Invoking command in '/home/nexium/ros_ws/build/pb_teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/pb_teleop_twist_joy -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pb_teleop_twist_joy
+[2.267s] -- The C compiler identification is GNU 11.4.0
+[2.268s] -- The CXX compiler identification is GNU 11.4.0
+[2.268s] -- Detecting C compiler ABI info
+[2.268s] -- Detecting C compiler ABI info - done
+[2.268s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.268s] -- Detecting C compile features
+[2.268s] -- Detecting C compile features - done
+[2.268s] -- Detecting CXX compiler ABI info
+[2.268s] -- Detecting CXX compiler ABI info - done
+[2.268s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.269s] -- Detecting CXX compile features
+[2.269s] -- Detecting CXX compile features - done
+[2.269s] -- Found ament_cmake_auto: 1.3.12 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[2.269s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.271s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.271s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.271s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.271s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.271s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.271s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.271s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.271s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.271s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.271s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.271s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.271s] -- Looking for pthread.h
+[2.271s] -- Looking for pthread.h - found
+[2.272s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.272s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.272s] -- Found Threads: TRUE  
+[2.272s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.272s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.272s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.272s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.272s] -- Added test 'clang_format' to check C / C++ code style
+[2.272s] -- Added test 'clang_tidy' to check C / C++ code style
+[2.272s] -- Added test 'black' to check Python code style
+[2.272s] -- Added test 'xmllint' to check XML markup files
+[2.272s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.272s] -- Configuring done
+[2.272s] -- Generating done
+[2.272s] -- Build files have been written to: /home/nexium/ros_ws/build/pb_teleop_twist_joy
+[2.281s] Invoked command in '/home/nexium/ros_ws/build/pb_teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nexium/ros_ws/src/pb2025_sentry_nav/pb_teleop_twist_joy -DCMAKE_BUILD_TYPE=release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nexium/ros_ws/install/pb_teleop_twist_joy
+[2.285s] Invoking command in '/home/nexium/ros_ws/build/pb_teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pb_teleop_twist_joy -- -j12 -l12
+[4.470s] [ 25%] [32mBuilding CXX object CMakeFiles/pb_teleop_twist_joy.dir/src/pb_teleop_twist_joy.cpp.o[0m
+[26.122s] [ 50%] [32m[1mLinking CXX shared library libpb_teleop_twist_joy.so[0m
+[26.415s] [ 50%] Built target pb_teleop_twist_joy
+[26.444s] [ 75%] [32mBuilding CXX object CMakeFiles/pb_teleop_twist_joy_node.dir/rclcpp_components/node_main_pb_teleop_twist_joy_node.cpp.o[0m
+[30.175s] [100%] [32m[1mLinking CXX executable pb_teleop_twist_joy_node[0m
+[30.374s] [100%] Built target pb_teleop_twist_joy_node
+[30.393s] Invoked command in '/home/nexium/ros_ws/build/pb_teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nexium/ros_ws/build/pb_teleop_twist_joy -- -j12 -l12
+[30.395s] Invoking command in '/home/nexium/ros_ws/build/pb_teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pb_teleop_twist_joy
+[31.155s] -- Install configuration: "release"
+[31.155s] -- Execute custom install script
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/lib/pb_teleop_twist_joy/pb_teleop_twist_joy_node
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/include/pb_teleop_twist_joy/pb_teleop_twist_joy/pb_teleop_twist_joy.hpp
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/environment/library_path.sh
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/environment/library_path.dsv
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/lib/libpb_teleop_twist_joy.so
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/config/xbox.config.yaml
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/launch/pb_teleop_twist_joy_launch.py
+[31.156s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/ament_index/resource_index/package_run_dependencies/pb_teleop_twist_joy
+[31.157s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/ament_index/resource_index/parent_prefix_path/pb_teleop_twist_joy
+[31.157s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/environment/ament_prefix_path.sh
+[31.157s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/environment/ament_prefix_path.dsv
+[31.157s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/environment/path.sh
+[31.157s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/environment/path.dsv
+[31.157s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/local_setup.bash
+[31.157s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/local_setup.sh
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/local_setup.zsh
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/local_setup.dsv
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/package.dsv
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/ament_index/resource_index/packages/pb_teleop_twist_joy
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/ament_index/resource_index/rclcpp_components/pb_teleop_twist_joy
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/cmake/ament_cmake_export_dependencies-extras.cmake
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/cmake/ament_cmake_export_include_directories-extras.cmake
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/cmake/ament_cmake_export_libraries-extras.cmake
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/cmake/pb_teleop_twist_joyConfig.cmake
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/cmake/pb_teleop_twist_joyConfig-version.cmake
+[31.158s] -- Symlinking: /home/nexium/ros_ws/install/pb_teleop_twist_joy/share/pb_teleop_twist_joy/package.xml
+[31.188s] Invoked command in '/home/nexium/ros_ws/build/pb_teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nexium/ros_ws/build/pb_teleop_twist_joy

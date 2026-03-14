@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_gz_plugins/ament_cmake_environment_hooks/local_setup.bash

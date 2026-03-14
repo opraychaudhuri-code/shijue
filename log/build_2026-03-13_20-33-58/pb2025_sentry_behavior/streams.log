@@ -1,0 +1,102 @@
+[0.088s] Invoking command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/pb2025_sentry_behavior -- -j12 -l12
+[0.130s] [  5%] Built target pb2025_sentry_behavior_server
+[0.135s] [ 11%] Built target pb2025_sentry_behavior_client
+[0.136s] [ 16%] Built target action_client
+[0.158s] [ 22%] Built target is_game_status
+[0.182s] [ 27%] Built target is_rfid_detected
+[0.206s] [ 33%] Built target is_status_ok
+[0.232s] [ 38%] Built target is_attacked
+[0.257s] [ 44%] Built target is_detect_enemy
+[0.283s] [ 50%] Built target send_nav2_goal
+[0.305s] [ 55%] Built target pub_nav2_goal
+[0.331s] [ 61%] Built target pub_spin_speed
+[0.354s] [ 66%] Built target pub_twist
+[0.377s] [ 72%] Built target pub_gimbal_absolute
+[0.404s] [ 77%] Built target pub_gimbal_velocity
+[0.425s] [ 83%] Built target calculate_attack_pose
+[0.448s] [ 88%] Built target recovery_node
+[0.469s] [ 94%] Built target rate_controller
+[0.491s] [100%] Built target tick_after_timeout_node
+[0.501s] Invoked command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nexium/ros_ws/build/pb2025_sentry_behavior -- -j12 -l12
+[0.502s] Invoking command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/pb2025_sentry_behavior
+[0.510s] -- Install configuration: "release"
+[0.510s] -- Execute custom install script
+[0.510s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/pb2025_sentry_behavior/pb2025_sentry_behavior_client
+[0.510s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_game_status.so
+[0.510s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_rfid_detected.so
+[0.510s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_status_ok.so
+[0.510s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_attacked.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libis_detect_enemy.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libsend_nav2_goal.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_nav2_goal.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_spin_speed.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_twist.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_gimbal_absolute.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libpub_gimbal_velocity.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libcalculate_attack_pose.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/librecovery_node.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/librate_controller.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/bt_plugins/libtick_after_timeout_node.so
+[0.511s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/custom_types.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/pb2025_sentry_behavior_client.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/pb2025_sentry_behavior_server.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/calculate_attack_pose.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_gimbal_absolute.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_gimbal_velocity.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_nav2_goal.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_spin_speed.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/pub_twist.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/action/send_nav2_goal.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_attacked.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_detect_enemy.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_game_status.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_rfid_detected.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/condition/is_status_ok.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/control/recovery_node.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/decorator/rate_controller.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/include/pb2025_sentry_behavior/plugins/decorator/tick_after_timeout_node.hpp
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/library_path.sh
+[0.512s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/library_path.dsv
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libaction_client.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_game_status.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_rfid_detected.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_status_ok.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_attacked.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libis_detect_enemy.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libsend_nav2_goal.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_nav2_goal.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_spin_speed.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_twist.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_gimbal_absolute.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libpub_gimbal_velocity.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libcalculate_attack_pose.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/librecovery_node.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/librate_controller.so
+[0.513s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/libtick_after_timeout_node.so
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/lib/pb2025_sentry_behavior/pb2025_sentry_behavior_server
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/Project.btproj
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/dev_rm.xml
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/models.xml
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/behavior_trees/rmul_2025.xml
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/params/sentry_behavior.yaml
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/launch/pb2025_sentry_behavior_launch.py
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/package_run_dependencies/pb2025_sentry_behavior
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/parent_prefix_path/pb2025_sentry_behavior
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/ament_prefix_path.sh
+[0.514s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/ament_prefix_path.dsv
+[0.515s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/path.sh
+[0.515s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/environment/path.dsv
+[0.515s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.bash
+[0.515s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.sh
+[0.515s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.zsh
+[0.515s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/local_setup.dsv
+[0.515s] -- Symlinking: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/package.dsv
+[0.522s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/packages/pb2025_sentry_behavior
+[0.522s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/ament_index/resource_index/rclcpp_components/pb2025_sentry_behavior
+[0.522s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.522s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.523s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/ament_cmake_export_libraries-extras.cmake
+[0.523s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/pb2025_sentry_behaviorConfig.cmake
+[0.523s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/cmake/pb2025_sentry_behaviorConfig-version.cmake
+[0.523s] -- Up-to-date symlink: /home/nexium/ros_ws/install/pb2025_sentry_behavior/share/pb2025_sentry_behavior/package.xml
+[0.525s] Invoked command in '/home/nexium/ros_ws/build/pb2025_sentry_behavior' returned '0': AMENT_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nexium/ros_ws/install/behaviortree_ros2:/home/nexium/ros_ws/install/pb_rm_interfaces:/home/nexium/ros_ws/install/btcpp_ros2_interfaces:/home/nexium/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/nexium/ros_ws/install/behaviortree_ros2/lib:/home/nexium/ros_ws/install/pb_rm_interfaces/lib:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/lib:/home/nexium/ros_ws/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nexium/ros_ws/install/pb_rm_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages:/home/nexium/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nexium/ros_ws/build/pb2025_sentry_behavior

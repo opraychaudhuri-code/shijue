@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/rmoss_interfaces/rosidl_generator_c/rmoss_interfaces/srv/detail/get_camera_info__type_support.h

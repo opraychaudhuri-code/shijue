@@ -1,0 +1,1 @@
+/home/nexium/ros_ws/build/pb_nav2_plugins/ament_cmake_core/pb_nav2_pluginsConfig.cmake

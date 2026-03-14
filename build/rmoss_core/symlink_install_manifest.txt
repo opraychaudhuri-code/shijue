@@ -1,0 +1,15 @@
+/home/nexium/ros_ws/install/rmoss_core/share/ament_index/resource_index/package_run_dependencies/rmoss_core
+/home/nexium/ros_ws/install/rmoss_core/share/ament_index/resource_index/parent_prefix_path/rmoss_core
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/environment/ament_prefix_path.sh
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/environment/ament_prefix_path.dsv
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/environment/path.sh
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/environment/path.dsv
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/local_setup.bash
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/local_setup.sh
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/local_setup.zsh
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/local_setup.dsv
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/package.dsv
+/home/nexium/ros_ws/install/rmoss_core/share/ament_index/resource_index/packages/rmoss_core
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/cmake/rmoss_coreConfig.cmake
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/cmake/rmoss_coreConfig-version.cmake
+/home/nexium/ros_ws/install/rmoss_core/share/rmoss_core/package.xml

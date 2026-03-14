@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-release-17e17398888b76232f14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "rmoss_interfaces__py",
+					"jsonFile" : "directory-rmoss_interfaces__py-release-726009509728869db2b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/nexium/ros_ws/build/rmoss_interfaces/rmoss_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "rmoss_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_rmoss_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_rmoss_interfaces_egg-release-821c435eb2196cfaa0ff.json",
+					"name" : "ament_cmake_python_build_rmoss_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_rmoss_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_rmoss_interfaces-release-9fc0cd738299abdd952b.json",
+					"name" : "ament_cmake_python_symlink_rmoss_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces-release-fb9c4b20aba2dc66c4fa.json",
+					"name" : "rmoss_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__cpp-release-7f92b82dfa3c8ab99a1a.json",
+					"name" : "rmoss_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "rmoss_interfaces__py::@484b5f0d2bf8ff676adb",
+					"jsonFile" : "target-rmoss_interfaces__py-release-34b3badfffea81936e00.json",
+					"name" : "rmoss_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_generator_c-release-b6e52eac586b6b8a9324.json",
+					"name" : "rmoss_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_generator_py-release-10bfe2f70cc1fe2272d1.json",
+					"name" : "rmoss_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_c-release-c6572d2333036c77fd32.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_c__pyext-release-108a7f0cbf2b4abe88ee.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_cpp-release-90ebce9b2e69f4cea62a.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_fastrtps_c-release-b711c794976ce5eade76.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_fastrtps_c__pyext-release-d643ea36408172ebbc70.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_fastrtps_cpp-release-5b3bbe24a2330821c6fd.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_introspection_c-release-2aa204ca3b52c612648c.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_introspection_c__pyext-release-b74ceb421e09ef2fde18.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces__rosidl_typesupport_introspection_cpp-release-ed33f129ce583f4d00be.json",
+					"name" : "rmoss_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rmoss_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rmoss_interfaces_uninstall-release-b4f573ce06463d2e3831.json",
+					"name" : "rmoss_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-release-af2f0d1698f23e96550a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nexium/ros_ws/build/rmoss_interfaces",
+		"source" : "/home/nexium/ros_ws/src/rmoss_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
